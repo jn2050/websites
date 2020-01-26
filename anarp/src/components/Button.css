@@ -1,0 +1,27 @@
+
+.Button {
+    position: relative;
+    float: left;
+    width: 120px;
+    height: 30px;
+    margin: 0px auto;
+    padding: 0px 5px;
+    border-radius: 4px;
+    border: 1px solid var(--BLUE2);
+    background: var(--BLUE2);
+    text-align: center;
+    cursor: pointer;
+}
+
+.Button.Text                { width: 120px; background: var(--BLUE2); width: 120px; height: 36px; padding: 5px 10px; border: 0px; }
+.Button.Text:hover          { background: var(--ORANGE); }
+.Button.Text span           { color: var(--FG1); }
+
+.Button.S { width: 60px; }
+.Button.M { width: 120px; }
+.Button.L { width: 180px; }
+
+.Button.IconOnly { width: auto; height: auto; background: transparent; margin: 0px; padding: 0px; border-style: none; }
+.Button.IconOnly svg, .Button g, .Button path { fill: var(--FG1); }
+
+.Button .Set { background: transparent !important; }

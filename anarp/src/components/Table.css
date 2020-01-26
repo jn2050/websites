@@ -1,0 +1,78 @@
+
+.Table {
+    position: relative;
+    float: left;
+    width: 100%;
+    height: 100%;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    background: var(--color-03);
+    overflow-x: auto;
+}
+
+.TTable {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: calc(100% - 40px);
+    margin: 0px auto;
+}
+
+.THeader {
+    float: left;
+    width: 100%;
+}
+
+.TBody {
+    position: relative;
+    float: left;
+    width: 100%;
+    height: calc(100% - 40px);
+    overflow-y: auto;
+}
+
+.TFooter {
+    float: left;
+    width: 100%;
+}
+
+.TRow {
+    float: left;
+    width: 100%;
+    height: 30px;
+}
+
+.THeader .TRow, .TFooter .TRow {
+    height: 35px;
+    background: var(--color-04);
+}
+
+.TData {
+    float: left;
+    height: 100%;
+}
+
+.TRow, .TData {
+    padding: 4px 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+
+.TBody .TRow:nth-child(odd) {background: var(--color-01);}
+.TBody .TRow:nth-child(even) {background: var(--color-02);}
+
+.Table .left {text-align: left;}
+.Table .center {text-align: center;}
+.Table .right {text-align: right;}
+
+.Table .highlight {background: var(--color-11);}
+
+.Table .Label {
+    text-align: center;
+    width: 80px;
+    padding: 3px 10px;
+    border-radius: 5px;
+    font-size: 8px;
+    color: var(--color-11);
+}

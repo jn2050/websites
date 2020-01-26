@@ -1,0 +1,67 @@
+
+.Section { position: relative; float: left; width: 100%; height: auto; background-clip: content-box; background: transparent; overflow: hidden; }
+  
+.Section.Page       { height: calc(100vh - 100px); background: var(--BG2); }
+.Section.Main       { height: calc(100% - 50px); padding: 0px; background: var(--BG2); overflow: hidden; }
+.Section.SideNav    { width: 200px; padding: 10px; height: calc(100vh - 100px); background: var(--BG1); }
+.Section.SidePanel  { width: calc(100% - 200px); height: 100%; padding: 10px; background: var(--BG2); overflow: hidden; }
+.Section.Bar        { height: 50px; padding: 5px 10px; border-bottom: 2px solid var(--BG9); }
+.Section.Row        { height: auto; }
+
+.Section .Info,
+.Section .Error     { float: left; width: 100%; height: 100%; padding: 100px 20px; text-align: center; font-size: 22px; }
+.Section .Error     { color: var(--RED1); }
+
+.Login .MainMsg     { margin: 35px 0px 10px 0px; }
+.Login .ErrorMsg    { margin: 35px 0px 10px 0px; color: var(--RED); }
+  
+@media only screen and (max-width: 667px) {
+  .Section { width: 100%; }
+}
+  
+  /* @media only screen and (max-width: 600px) {
+    .w100 {width: calc(100%) !important; margin: 10px 0px !important;}
+    .w75, .w80 {width: calc(50% -20px) !important;}
+    .w50 {width: calc(50% -20px) !important;}
+    .w25, .w20 {width: calc(50% -20px) !important;}
+  } */
+
+
+  .W80 {width: 80% !important;}
+  .W20 {width:20% !important;}
+  
+  .W200 {width: 200px;}
+  .W300 {width: 300px;}
+  
+  
+  .w100 {width: calc(100% - 20px) !important; margin: 10px 0px 10px 10px !important;}
+  .w80 {width: calc(80% - 20px) !important;}
+  .w75 {width: calc(75% - 20px) !important;}
+  .w50 {width: calc(50% - 20px) !important;}
+  .w25 {width: calc(25% - 20px) !important;}
+  .w20 {width: calc(20% - 20px) !important;}
+  
+  .H20 { height: 20% !important; }
+  .H25 { height: 25% !important; }
+  .H50 { height: 50% !important; }
+  .H75 { height: 75% !important; }
+  .H80 { height: 80% !important; }
+  
+  .h25 {height: 25px !important;}
+  .h50 {height: 50px !important;}
+  .h_50 {height: calc(100% - 50px) !important;}
+  .h75 {height: 75px !important;}
+  .h100 {height: 100px !important;}
+  .h_100 {height: calc(100% - 150px) !important;}
+  .h150 {height: 150px !important;}
+  .h200 {height: 200px !important;}
+  .h220 {height: 220px !important;}
+  .h250 {height: 250px !important;}
+  .h260 {height: 260px !important;}
+  .h270 {height: 270px !important;}
+  .h300 {height: 300px !important;}
+  .h400 {height: 400px !important;}
+  .h500 {height: 500px !important;}
+  .h600 {height: 600px !important;}
+  .h700 {height: 700px !important;}
+  .h800 {height: 800px !important;}

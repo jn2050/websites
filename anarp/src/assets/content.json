@@ -1,0 +1,117 @@
+{
+    "page_1": {
+        "title": "Associação Nova Aurora",
+        "sections": [
+            {
+                "title": "Para uma sociedade melhor",
+                "text": "A Associação Nova Aurora na Reabilitação e Reintegração Psicossocial é uma Instituição Particular de Solidariedade Social, Sem Fins Lucrativos sendo uma Pessoa Coletiva de Utilidade Pública. Esta Associação surgiu em 1986 numa união de familiares e amigos de pessoas portadoras de doença mental.  A ANARP tem como objetivo contribuir para uma sociedade mais digna, aberta, procurando a inclusão social. Oferece um conjunto de serviços que vão de encontro às necessidades das pessoas com doença mental grave, proporcionando-lhes oportunidades, objetivos e aspirações semelhantes a qualquer outra pessoa. A ANARP abraçou outro desafio e, atualmente, gere um centro infantil, que abrange creche, jardim de infância e centros de atividades de tempos livres.  A nossa missão advém das necessidades de todas as pessoas com doença mental, bem como de todos aqueles que com elas interagem.",
+                "nav": [
+                    {
+                        "img": "forum_1",
+                        "label": "Fórum Sócio-Ocupacional",
+                        "url": "/forum"
+                    },
+                    {
+                        "img": "cina_1",
+                        "label": "Centro Infantil",
+                        "url": "/cina"
+                    }
+                ]
+            },
+            {
+                "title": "Corpos Sociais",
+                "docs": [
+                    "Corpos Sociais",
+                    "ATA AG Eleitoral",
+                    "ATA AG Termo de Posse dos Orgão Sociais Eleitos"
+                ]
+            },
+            {
+                "title": "Relatórios e Contas",
+                "docs": [
+                    "Relatório de Contas 2018",
+                    "Relatório de Contas 2017",
+                    "Relatório de Contas 2016",
+                    "Relatório de Contas 2015",
+                    "Relatório de Contas 2014"
+                ]
+            },
+            {
+                "title": "Regulamentos",
+                "docs": [
+                    "Regulamento Interno",
+                    "Regulamento Interno do Fórum Sócio-Ocupacional Nova Aurora",
+                    "Regulamento Interno do Centro Infantil Nova Aurora"
+                ]
+            },
+            {
+                "title": "Legislação",
+                "docs": [
+                    "Portaria 149-2011",
+                    "Decreto Lei 8-2010",
+                    "Decreto Lei 290-2009",
+                    "Decreto Lei 281-2003",
+                    "Decreto Lei 35-1999",
+                    "Decreto Lei 36-1998",
+                    "Portaria 348-A-1998",
+                    "Diário da República"
+                ]
+            }
+        ]
+    },
+    "page_2": {
+        "title": "Fórum Sócio-Ocupacional Nova Aurora",
+        "sections": [
+            {
+                "title": "Centro de Reabilitação",
+                "text": "O Centro de Reabilitação disponibiliza um conjunto de programas multinível, que de forma flexível, personalizada, progressiva e participada, permite o desenvolvimento de competências funcionais, no sentido de potenciar as oportunidades de participação e inserção social de todas as pessoas que apresentam a desvantagem de possuir uma doença mental"
+            },
+            {
+                "title": "Projetos",
+                "cards": [
+                    {
+                        "img": "proj_remix",
+                        "title": "Remix Ensemble Contratempo",
+                        "text": "No ano de 2018, a ANARP conseguiu cofinanciamento do Instituto Nacional para a Reabilitação para três projetos desenvolver neste segundo semestre do ano.",
+                        "doc": "Policy Paper Booklet"
+                    }
+                ]
+            },
+            {
+                "title": "Notícias e Eventos",
+                "cards": [
+                    {
+                        "img": "proj_remix",
+                        "title": "Mens Project",
+                        "text": "Já começou a campanha que liga a atividade física/desporto e a saúde mental. Espalhe a mensagem! Seja ativo!",
+                        "link": {"name": "Veja o vídeo", "url": "https://www.youtube.com/watch?v=b9SrfKsykXw"}
+                    }
+                ]
+            }
+        ]
+    },
+    "page_3": {
+        "title": "Centro Infantil Nova Aurora (CINA)",
+        "sections": [
+            {
+                "title": "Missão",
+                "text": "O Centro Infantil Nova Aurora consiste em assegurar, com qualidade, a satisfação das necessidades básicas da criança, promovendo uma educação que desenvolva o potencial que há em cada indivíduo, de modo a torná-lo uma pessoa feliz. Para cumprir a missão a que se propõe e poder vir a atingir a visão que tem para cada criança - torná-lo uma pessoa feliz - o Centro Infantil Nova Aurora elegeu como valores fundamentais na sua actuação os seguintes:\nSegurança que pressupõe não só a existência de um espaço concebido à medida da criança, onde o risco de acidente é minimizado, mas também um local onde ela se sente protegida, segura e feliz;Afetividade que assenta no princípio de que cada criança é única e que a sua integração no grupo resulta, antes de mais, da compreensão das suas necessidades individuais e de uma atitude por parte do adulto de disponibilidade para a escutar, compreender e acarinhar;\nDisciplina que considera a necessidade do reconhecimento por parte da criança de um conjunto de regras que precisam de ser respeitadas para que o seu crescimento e integração social se processem de forma harmoniosa, de modo a tornar-se uma pessoa responsável, confiante e equilibrada"
+            },
+            {
+                "title": "Objetivos",
+                "text": "Os espaços interiores foram pensados para se adaptarem às crianças e às actividades que neles serão desenvolvidas. Estamos convictos que as instalações desempenham um papel crucial no sucesso educativo que pretendemos alcançar. Para que uma criança brinque em segurança, aprenda com alegria, cresça com tranquilidade, o espaço onde ela se movimenta deve ser livre de obstáculos, confortável, iluminado, arejado, termicamente controlado, agradável, pedagogicamente estimulante para que nele se possa viver plenamente e sonhar!"
+            },
+            {
+                "title": "Notícias e Eventos",
+                "cards": [
+                    {
+                        "img": "news_cina_1",
+                        "title": "Mens Project",
+                        "text": "Já começou a campanha que liga a atividade física/desporto e a saúde mental. Espalhe a mensagem! Seja ativo!",
+                        "link": {"name": "Veja o vídeo", "url": "https://www.youtube.com/watch?v=b9SrfKsykXw"}
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+
+
+.Confirm {
+  position: relative;
+  float: left;
+  width: 282px;
+  height: 140px;
+  margin: 20px auto;
+  border-radius: 10px;
+  border-top: 1px solid white;
+  background: var(--BLUE2);
+  border: solid 1px var(--BLUE2);
+}
+
+.Confirm button {
+  background: transparent;
+  border: none;
+  color: var(--FG1);
+  height: 3rem;
+  font-size: 1rem;
+  width: 50%;
+  position: absolute;
+  bottom: 0;
+  cursor: pointer;
+}
+
+
+.Confirm button:nth-of-type(1) {
+    border-top: 1px solid var(--FG3);
+    border-right: 1px solid var(--FG3);
+    left: 0;
+    border-radius: 0 0 0 10px;
+  }
+  .Confirm button:nth-of-type(2) {
+    border-top: 1px solid var(--FG3);
+    right: 0;
+    border-radius: 0 0 10px 0;
+  }
+  .Confirm button:focus,
+  .Confirm button:hover {
+    background: var(--ORANGE);
+  }
+  
+  .Confirm h2 {
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    margin: 20px 0px 10px 0px;
+    color: var(--FG1);
+  }
+  
+  .Confirm p {
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    margin: 0px 0px;
+    color: var(--FG1);
+  }

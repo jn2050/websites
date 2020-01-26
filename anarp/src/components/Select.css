@@ -1,0 +1,108 @@
+
+.Select             { float: left; margin: 10px; }
+.Select.Left li,
+.Select.Left a      { text-align: left !important; }
+.Select .Label      { float: left; width: 100%; height: auto; margin: 0px 0px 3px 5px; text-transform: uppercase; text-align: left; 
+                      font-size: 12px; color: var(--FG3); }
+
+
+.Select.Menu                        { float: left; width: 100%; height: 100%; margin: 0px; text-align: center; cursor: pointer; overflow: auto; }
+.Select.Menu.Vertical               { width: 150px; height: auto; margin: 10px; }
+.Select.Menu li,
+.Select.Menu a                      { float: left; width: auto; height: auto; margin: 5px 10px; padding: 5px 20px; border-radius: 5px;
+                                      font-size: 14px; text-align: center; color: var(--FG2); }
+.Select.Menu.Vertical li,
+.Select.Menu.Vertical a             { width: auto; margin: 0px auto 5px auto; }
+.Select.Menu.Underline li,
+.Select.Menu.Underline a            { border-radius: 0px; margin: 5px 20px; padding: 5px 0px 3px 0px; }
+.Select.Menu.Vertical li,
+.Select.Menu.Vertical a             { margin-left: 15px; }
+.Select.Menu li:hover,
+.Select.Menu a:hover,
+.Select.Menu li.Selected,
+.Select.Menu a.Selected             { background: var(--BG4); color: var(--BLUE); }
+.Select.Menu.Underline li:hover,
+.Select.Menu.Underline a:hover,
+.Select.Menu.Underline .Selected,
+.Select.Menu.Underline .Selected    { background: transparent; margin-bottom: 2px; border-bottom: 2px solid var(--BLUE); color: var(--BLUE); }
+.Select.Menu .Inactive,
+.Select.Menu .Inactive:hover        { color: var(--BG4)!important; border-bottom: 0px!important; }
+
+.Select.Icons                       { float: left; width: 100%; height: auto; margin: 10px; text-align: center; }
+.Select.Icons .Group                { display: inline-block; }
+.Select.Icons .Icon                 { margin: 10px 5px; }
+.Select.Icons .Button.IconOnly.Selected svg,
+.Select.Icons .Button.Selected g,
+.Select.Icons .Button.Selected path { fill: var(--BLUE); }
+
+
+.Select.Buttons                      { float: left; width: 120px; height: auto; margin: 20px calc(50% - 60px); text-align: center; }
+.Select .Button                      { margin: 2px 0px; }
+
+
+.MenuItemLarge {
+    position: relative;
+    float: left;
+    width: 90%;
+    height: 80px;
+    margin: 10px 0px;
+    padding: 30px 20px;
+    border-radius: 10px;
+    background: var(--BG2);
+    text-align: center;
+    font-size: 18px;
+}
+.enuItemMenuItemLarge.InActive       { background: var(--BG0); }
+.MenuItemLarge.Active:hover   { background: var(--BLUE); }
+
+
+
+.Select.Flat h2             { margin: 10px 10px; color: var(--FG3); font-size: 14px; text-transform: uppercase; }
+.Select.Flat .List          { float: left; width: 180px; height: auto; margin: 0px auto; padding: 0px 10px; cursor: pointer; }
+.Select.Flat .SelectRow     { float: left; width: 100%; }
+.Select.Flat .SelectFolder,
+.Select.Flat .SelectFolder li   { margin: 5px 0px 0px 0px; text-transform: uppercase; color: var(--FG3); font-size: 12px; }
+.Select.Flat .SelectItem li     { margin: 2px 0px 0px 25px; font-size: 12px; }
+.Select.Flat .SelectItem li:hover,
+.Select.Flat .SelectItem li.Selected  { color: var(--BLUE); }
+.Select.Flat .Button            { margin: 12px 8px 0px 0px; }
+
+
+.Select.DropDown            { width: auto; height: auto; }
+.Select.DropDown .Filter    { float: left;  width: 160px; height: 30px; margin: 0px auto;
+                              background: var(--BG3); cursor: pointer; }
+.Select.DropDown .Value     { float: left; width: calc(100% - 45px); height: 100%; margin: 4px 10px; font-size: 14px; }
+.Select.DropDown .Control   { float: left; width: 20px; width: 25px; height: 100%; background: var(--BG2); }
+.Select.DropDown .Options   { float: left; width: 160px; height: auto; margin: 0px auto; padding: 10px 10px;
+                              background: var(--BG2); cursor: pointer; }
+.Select.DropDown .Options li,
+.Select.DropDown .Options a { font-size: 12px; }
+.Select.DropDown .Options li:hover  { color: var(--BLUE); }
+.Select.DropDown .Button.IconOnly   { margin: 8px 0px 0px 7px; }
+
+
+.Select.PullDown                    { position: relative; width: 100%; height: 100%; float: left; margin: 0px; }
+.Select.PullDown .PullDownButton    { display: block; width: 24px; height: 24px; margin: 14px auto 0px auto; }
+.Select.PullDown .Options   {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    min-height: 120px;
+    top: 49px; right: 0px;
+    z-index: 2;
+    padding: 20px 10px;
+    background: var(--BG1);
+    text-align: right;
+}
+.Select.PullDown li,
+.Select.PullDown a          { float: right; width: 100%; height: 25px; color: var(--FG1); font-size: 14px; text-align: right; }
+
+.Select.PullDown li:hover,
+.Select.PullDown a:hover    { color: var(--BLUE); }
+
+
+/* .ButtonGroup Button.Fill:not(:first-of-type) { border-top: 1px solid #AAAAAA; }
+.ButtonGroup Button.Fill:last-of-type        { border-bottom: 1px solid #AAAAAA; }
+.ButtonGroup Button.Fill:first-of-type       { border-radius: 3px 3px 0px 0px; }
+.ButtonGroup Button.Fill:last-of-type        { border-radius: 0px 0px 3px 3px; }
+.ButtonGroup.Horizontal Button.Fill          { border: 1px solid #AAAAAA; border-radius: 0px; } */

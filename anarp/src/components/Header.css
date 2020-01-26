@@ -1,0 +1,18 @@
+
+
+.Header             { position: relative; float: left; width: 100%; height: 50px; background: var(--BG0); }
+.Header .Logo       { width: 100px; }
+.HeaderMenu         { position: absolute; top: 5px; left: 200px; width: calc(100% - 320px); height: 100%;  padding: 3px 20px; }
+.Header .Profile    { float: right; width: 60px; height: 100%; }
+
+
+.Header .Status         { float: left; width: 60px; height: 100%; border-radius: 5px; border-radius: 0px; }
+.Header .Status span    { display: block; width: auto; margin: 18px auto; font-size: 12px; text-align: center; }
+.Header .Status.Online  { color: var(--GREEN1); }
+.Header .Status.Offline { color: var(--RED); }
+
+@media only screen and (max-width: 667px) {
+    .HeaderMenu     { display: none; }
+    .Header .Logo   { position: absolute; top: 0px; left: calc(50% - 50px); }
+    .Header .Status { display: none; }
+}
