@@ -1,0 +1,11 @@
+{
+    "title": "Making ideas happen",
+    "subtitle1": "Digital Logic builds technology products, founding and developing startups from idea to market.",
+    "subtitle2": "Specialized in Deep Neural Networks, Internet of the Things and Business Inteligence.",
+    "portfolio": [
+        {"name": "Nanopower", "logo": "nanopower", "desc":"Patent pending sub-threshold microchip architecture. The technology is able to reduce the power consumption in idle mode of any other microchip by several orders of magnitude, increasing 10 fold the batery lifetime of IoT systems."},
+        {"name": "Cloudware", "logo": "cloudware", "desc":"Cloud based accounting software for small businesses and accountants. Software as a Service (SaaS) with Billing, Purchases, Inventory, Accounting and Salaries.  Market leader in Portugal with over 70.000 active customers."},
+        {"name": "Petapilot", "logo": "petapilot", "desc":"Fintech company for automatic fiscal fraud detection. Large scale analytics, fully simplifies and automates the audit process for Governments, Corporations and SME. Three European Tax Authorities and over 10.000 companies as customers."},
+        {"name": "KuantoKusta", "logo": "kuantokusta", "desc":"Leading price comparison in Portugal. B2C website with prices for over 1 million products. The company lauched its own marketplace in 2018."}
+    ]
+}

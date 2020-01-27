@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0e6f43f2.chunk.css",
+    "main.js": "/static/js/main.11d91d8f.chunk.js",
+    "main.js.map": "/static/js/main.11d91d8f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc1904d5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc1904d5.js.map",
+    "static/js/2.787fa9e1.chunk.js": "/static/js/2.787fa9e1.chunk.js",
+    "static/js/2.787fa9e1.chunk.js.map": "/static/js/2.787fa9e1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.42709c51b860bb58aef398d1510ea7ac.js": "/precache-manifest.42709c51b860bb58aef398d1510ea7ac.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0e6f43f2.chunk.css.map": "/static/css/main.0e6f43f2.chunk.css.map",
+    "static/js/2.787fa9e1.chunk.js.LICENSE": "/static/js/2.787fa9e1.chunk.js.LICENSE",
+    "static/media/Ficha.pdf": "/static/media/Ficha.87bf3388.pdf",
+    "static/media/greenland.jpeg": "/static/media/greenland.96987b6b.jpeg",
+    "static/media/kuantokusta.png": "/static/media/kuantokusta.11274faf.png",
+    "static/media/nanopower.png": "/static/media/nanopower.0e87663f.png",
+    "static/media/p2020.jpg": "/static/media/p2020.2f2580a3.jpg",
+    "static/media/petapilot.png": "/static/media/petapilot.39c9b26e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc1904d5.js",
+    "static/js/2.787fa9e1.chunk.js",
+    "static/css/main.0e6f43f2.chunk.css",
+    "static/js/main.11d91d8f.chunk.js"
+  ]
+}

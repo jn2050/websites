@@ -1,0 +1,236 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i&display=swap");
+
+*           { box-sizing: border-box; margin: 0px; padding: 0px; }
+li          { list-style-type: none; }
+a, a:hover  { text-decoration: none; }
+code        { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace; }
+
+h1, h2, h3, p {
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #FFFFFF;
+}
+
+.App {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  /* min-width: 375px; */
+  min-width: 320px;
+  /* font-family: 'Roboto Mono', monospace; */
+  font-family: 'Montserrat', sans-serif;
+  margin: 0px auto;
+}
+
+.Content {
+  position: relative;
+  display: block;
+  float: none;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0px auto;
+}
+
+.Header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  float: left;
+  width: 100%;
+  height: 80px;
+  background: #000935;
+  /* opacity: 0.8; */
+  z-index: 100;
+}
+
+.Header .Logo {
+  float: left;
+  width: 200px;
+  height: 100%;
+  padding: 10px 10px;
+}
+
+.Footer {
+  float: left;
+  width: 100%;
+  height: 260px;
+  background: #000935;
+  }
+
+.Section {
+  position: relative;
+  float: left;
+  height: auto;
+  min-height: 400px;
+  width: 100%;
+  margin: 0px 0px;
+  padding: 20px;
+}
+
+.Row {
+  float: left;
+  width: 100%;
+  height: auto;
+  padding: 20px 20px;
+}
+
+.Card {
+  float: left;
+  width: 300px;
+  height: 260px;
+  border-radius: 4px;
+  margin: 40px 40px;
+  padding: 30px 30px;
+  box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+}
+
+.Card .Top {
+  float: left;
+  width: 100%;
+  height: 100px;
+}
+
+.Card img {
+  float: left;
+  width: 70px;
+  height: 70px;
+}
+
+.Card h3 {
+  float: left;
+  width: 100%;
+  height: 32px;
+  font-family: Montserrat;
+  font-size: 24px;
+  color: #000000;
+}
+
+.Card p {
+  float: left;
+  width: 246px;
+  height: 55px;
+  font-family: Montserrat;
+  font-size: 16px;
+  letter-spacing: normal;
+  color: #000000;
+}
+
+h1 {
+  float: left;
+  width: 100%;
+  margin: 40px auto;
+  font-size: 40px;
+  font-weight: bold;
+  color: #000005;
+  text-align: center;
+}
+
+.Section1 video,
+.Section1 img {  position: absolute; top: 0px; left: 0px; min-width: 100%; min-height: 100%; object-fit: cover; z-index: -1; }
+
+.Section1 { height: 600px; margin-top: 80px; }
+.Section1 h1 {
+  float: left;
+  width: 320px;
+  height: auto;
+  margin: 150px 0px 0px 0px;
+  font-size: 58px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  text-align: left;
+}
+
+.Section1 h2 {
+  width: 320px;
+  height: auto;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  text-align: left;
+}
+
+.Vertical {
+  position: absolute;
+  top: 235px;
+  left: 10px;
+  writing-mode: vertical-rl;
+  transform: rotate(-180deg);
+  text-orientation: sideways-right;
+  color: #FFFFFF;
+  font-size: 12px;
+  font-style: bold;
+}
+
+.Section2 { background: #FFFFFF; }
+.Section2 h1 span, .Section2 h1 div { float: right; }
+.Section2 h2 {
+  float: left;
+  width: 80%;
+  margin: 20px 0px;
+  text-align: left;
+  font-size: 24px;
+  font-weight: 200;
+}
+
+.Section3 { height: auto; }
+.Section3 img { position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; object-fit: cover; z-index: -1; }
+.Section3 h1 { margin: 80px 0px 40px 0px; color: #FFFFFF; text-align: left; }
+.Section3 h2 { color: #FFFFFF; }
+.Section3 p { color: #FFFFFF; margin: 50px 0px; text-align: left; font-size: 20px; font-weight: bold; }
+
+.Section4 { height: 800px; background: #f6f6fa; }
+.Section4 img { float: right; width: 360px; }
+
+.Section5 { height: 800px; background: #FFFFFF; }
+
+.Rectangle {
+  float: left;
+  width: 54px;
+  height: 6px;
+  margin: 34px 0px 0px 10px;
+  background-color: #2779ff;
+}
+
+.Footer .Logo {
+  float: left;
+  margin: 80px 0px 0px 10px;
+}
+
+.Footer .Address {
+  float: right;
+  margin: 160px 20px 0px 0px;
+  width: auto;
+  height: auto;
+}
+
+.Footer p {
+  color: #FFFFFF;
+  text-align: right;
+  margin: 0px 0px 5px 0px;
+}
+
+@media only screen and (max-width: 667px) {
+}
