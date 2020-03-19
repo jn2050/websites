@@ -1,70 +1,149 @@
 {
-    "page_1": {
+    "page1": {
         "title": "Associação Nova Aurora",
-        "sections": [
+        "image": "images/anarp1.jpeg",
+        "text": "A Associação NovaAurora na Reabilitação e Reintegração Psicossocial é uma Instituição Particular de Solidariedade Social, Sem Fins Lucrativos sendo uma Pessoa Coletiva de Utilidade Pública. Esta Associação surgiu em 1986 numa união de familiares e amigos de pessoas portadoras de doença mental.\nA ANARP tem como objetivo contribuir para uma sociedade mais digna, aberta, procurando a inclusão social. Oferece um conjunto de serviços que vão de encontro às necessidades das pessoas com doença mental grave, proporcionando-lhes oportunidades, objetivos e aspirações semelhantes às de qualquer outra pessoa.\nA ANARP abraçou outro desafio e, atualmente, gere um centro infantil, que abrange creche, jardim de infância e centros de atividades de tempos livres.  A nossa missão advém das necessidades de todas as pessoas com doença mental, bem como de todos aqueles que com elas interagem.",
+        "documents": [
             {
-                "title": "Para uma sociedade melhor",
-                "text": "A Associação Nova Aurora na Reabilitação e Reintegração Psicossocial é uma Instituição Particular de Solidariedade Social, Sem Fins Lucrativos sendo uma Pessoa Coletiva de Utilidade Pública. Esta Associação surgiu em 1986 numa união de familiares e amigos de pessoas portadoras de doença mental.  A ANARP tem como objetivo contribuir para uma sociedade mais digna, aberta, procurando a inclusão social. Oferece um conjunto de serviços que vão de encontro às necessidades das pessoas com doença mental grave, proporcionando-lhes oportunidades, objetivos e aspirações semelhantes a qualquer outra pessoa. A ANARP abraçou outro desafio e, atualmente, gere um centro infantil, que abrange creche, jardim de infância e centros de atividades de tempos livres.  A nossa missão advém das necessidades de todas as pessoas com doença mental, bem como de todos aqueles que com elas interagem.",
-                "nav": [
-                    {
-                        "img": "forum_1",
-                        "label": "Fórum Sócio-Ocupacional",
-                        "url": "/forum"
-                    },
-                    {
-                        "img": "cina_1",
-                        "label": "Centro Infantil",
-                        "url": "/cina"
-                    }
+                "group": "Corpos Sociais",
+                "items": [
+                    {"name": "Corpos Sociais", "url": "documents/anarp/_ATA.pdf"},
+                    {"name": "ATA AG Eleitoral", "url": "ATA_AG_Eleitoral"},
+                    {"name": "ATA AG Termo de Posse", "url": "ATA_AG_Termo_Posse"}
                 ]
             },
             {
-                "title": "Corpos Sociais",
-                "docs": [
-                    "Corpos Sociais",
-                    "ATA AG Eleitoral",
-                    "ATA AG Termo de Posse dos Orgão Sociais Eleitos"
+                "group": "Regulamentos",
+                "items": [
+                    {"name": "Regulamento Interno", "file": ""},
+                    {"name": "Regulamento Interno FÓRUM", "file": ""},
+                    {"name": "Regulamento Interno CINA", "file": ""}
                 ]
             },
             {
-                "title": "Relatórios e Contas",
-                "docs": [
-                    "Relatório de Contas 2018",
-                    "Relatório de Contas 2017",
-                    "Relatório de Contas 2016",
-                    "Relatório de Contas 2015",
-                    "Relatório de Contas 2014"
+                "group": "Contas 2019",
+                "items": [
+                    {"name": "Relatório e Contas", "file": "RC_2019"},
+                    {"name": "Relatório e Contas", "file": "RC_2019"}
                 ]
             },
             {
-                "title": "Regulamentos",
-                "docs": [
-                    "Regulamento Interno",
-                    "Regulamento Interno do Fórum Sócio-Ocupacional Nova Aurora",
-                    "Regulamento Interno do Centro Infantil Nova Aurora"
+                "group": "Contas 2018",
+                "items": [
+                    {"name": "Relatório e Contas", "file": "RC_2019"},
+                    {"name": "Relatório e Contas", "file": "RC_2019"}
                 ]
             },
             {
-                "title": "Legislação",
-                "docs": [
-                    "Portaria 149-2011",
-                    "Decreto Lei 8-2010",
-                    "Decreto Lei 290-2009",
-                    "Decreto Lei 281-2003",
-                    "Decreto Lei 35-1999",
-                    "Decreto Lei 36-1998",
-                    "Portaria 348-A-1998",
-                    "Diário da República"
+                "group": "Contas 2017",
+                "items": [
+                    {"name": "Relatório e Contas", "file": "RC_2019"},
+                    {"name": "Relatório e Contas", "file": "RC_2019"}
+                ]
+            },
+            {
+                "group": "Contas 2016",
+                "items": [
+                    {"name": "Relatório e Contas", "file": "RC_2019"},
+                    {"name": "Relatório e Contas", "file": "RC_2019"}
+                ]
+            },
+            {
+                "group": "Contas 2015",
+                "items": [
+                    {"name": "Relatório e Contas", "file": "RC_2019"},
+                    {"name": "Relatório e Contas", "file": "RC_2019"}
+                ]
+            },
+            {
+                "group": "Legislação",
+                "items": [
+                    {"name": "Portaria 149-2011", "file": "RC_2019"},
+                    {"name": "Decreto Lei 8-2010", "file": "RC_2019"},
+                    {"name": "Decreto Lei 290-2009", "file": "RC_2019"},
+                    {"name": "Decreto Lei 281-2003", "file": "RC_2019"},
+                    {"name": "Decreto Lei 35-1999", "file": "RC_2019"},
+                    {"name": "Decreto Lei 36-1998", "file": "RC_2019"},
+                    {"name": "Portaria 348-A-1998", "file": "RC_2019"},
+                    {"name": "Diário da República", "file": "RC_2019"}
                 ]
             }
         ]
     },
-    "page_2": {
+    "page2": {
         "title": "Fórum Sócio-Ocupacional Nova Aurora",
+        "image": "images/forum1.jpeg",
+        "text": "O Centro de Reabilitação disponibiliza um conjunto de programas multinível, que de forma flexível, personalizada, progressiva e participada, permite o desenvolvimento de competências funcionais, no sentido de potenciar as oportunidades de participação e inserção social de todas as pessoas que apresentam a desvantagem de possuir uma doença mental.",
         "sections": [
             {
-                "title": "Centro de Reabilitação",
-                "text": "O Centro de Reabilitação disponibiliza um conjunto de programas multinível, que de forma flexível, personalizada, progressiva e participada, permite o desenvolvimento de competências funcionais, no sentido de potenciar as oportunidades de participação e inserção social de todas as pessoas que apresentam a desvantagem de possuir uma doença mental"
+                "title": "Serviços",
+                "cards": [
+                    {
+                        "img": "images/autonomo.jpeg",
+                        "title": "Ser Autónomo",
+			"text": "Desenvolvimento de competências de base que facilitem a (re)construção da autonomia e duma identidade pessoal, centrado no «ser pessoa» e não no «ser doente».\nPretende-se ainda preparar o individuo para o segundo nível, onde se desenvolverão competências mais específicas, orientadas para a concretização do seu projeto de vida. Desta forma são estimuladas capacidades neurocognitivas e de cognição social, de autoconhecimento e gestão da doença e de promoção do empowerment e autodeterminação.Este nível é constituído por 3 atividades, desenvolvidas em sessões de grupo.",
+			"keywords": ["Psicoeducação", "NEP-UM", "Cognição Social", "Readiness"]
+                    },
+                    {
+                        "img": "images/ativo.jpeg",
+                        "title": "Ser Ativo",
+			"text": "Com o programa Ser Ativo pretende-se traçar, conjuntamente com o indivíduo, um percurso de integração adequado não só ao seu perfil de interesses, valores e competências, mas também às possibilidades efetivas de integração nos contextos que escolherem para residir, aprender, trabalhar e socializar. O programa centra-se no desenvolvimento de competências específicas, determinadas em função do contexto de inserção e projeto de vida determinado pela pessoa. Frequentemente desenvolvem-se competências no domínio vocacional, aumentando-se as suas qualificações, pela aquisição de competências técnicas (formação profissional) e de empregabilidade. Este programa será complementado com atividades do Ser Saudável e integração em ações de qualificação.",
+			"keywords": ["AtivaMente", "Êxito", "Qualifica", "AVDs e AVDIs", "Lazer", "Projecto Artístico"]
+                    },
+                    {
+                        "img": "images/saudavel.jpeg",
+                        "title": "Ser Saudável",
+			"text": "",
+			"keywords": ["", "", "", "", "", ""]
+                    },
+                    {
+                        "img": "images/educacao.jpeg",
+                        "title": "Educação apoiada",
+			"text": "",
+			"keywords": ["", "", "", "", "", ""]
+                    },
+                    {
+                        "img": "images/formacao.jpeg",
+                        "title": "Formação profissional",
+			"text": "",
+			"keywords": ["", "", "", "", "", ""]
+                    },                    {
+                        "img": "images/gabinete.jpeg",
+                        "title": "Gabinete Pós Colocação",
+			"text": "",
+			"keywords": ["", "", "", "", "", ""]
+                    },
+                    {
+                        "img": "images/programa.jpeg",
+                        "title": "Programa de Empregabilidade e Inserção Profissional",
+			"text": "",
+			"keywords": ["", "", "", "", "", ""]
+                    },
+                    {
+                        "img": "images/apoio.jpeg",
+                        "title": "Apoio Domiciliário",
+			"text": "",
+			"keywords": ["", "", "", "", "", ""]
+                    },
+                    {
+                        "img": "images/residencias.jpeg",
+                        "title": "Residências",
+			"text": "",
+			"keywords": ["", "", "", "", "", ""]
+                    },
+                    {
+                        "img": "images/apoioind.jpeg",
+                        "title": "Apoio Individual",
+			"text": "",
+			"keywords": ["", "", "", "", "", ""]
+                    },
+                    {
+                        "img": "images/apoioind.jpeg",
+                        "title": "Grupo Psicoeducativo Multifamiliar",
+			"text": "",
+			"keywords": ["", "", "", "", "", ""]
+                    }
+                ]
             },
             {
                 "title": "Projetos",
@@ -78,7 +157,7 @@
                 ]
             },
             {
-                "title": "Notícias e Eventos",
+                "title": "Notícias",
                 "cards": [
                     {
                         "img": "proj_remix",
@@ -90,28 +169,73 @@
             }
         ]
     },
-    "page_3": {
+    "page3": {
         "title": "Centro Infantil Nova Aurora (CINA)",
+        "image": "images/cina1.jpeg",
+        "text": "Missão O Centro Infantil Nova Aurora consiste em assegurar, com qualidade, a satisfação das necessidades básicas da criança, promovendo uma educação que desenvolva o potencial que há em cada indivíduo, de modo a torná-lo uma pessoa feliz. Para cumprir a missão a que se propõe e poder vir a atingir a visão que tem para cada criança - torná-lo uma pessoa feliz - o Centro Infantil Nova Aurora elegeu como valores fundamentais na sua actuação os seguintes: Segurança que pressupõe não só a existência de um espaço concebido à medida da criança, onde o risco de acidente é minimizado, mas também um local onde ela se sente protegida, segura e feliz; Afetividade que assenta no princípio de que cada criança é única e que a sua integração no grupo resulta, antes de mais, da compreensão das suas necessidades individuais e de uma atitude por parte do adulto de disponibilidade para a escutar, compreender e acarinhar; Disciplina que considera a necessidade do reconhecimento por parte da criança de um conjunto de regras que precisam de ser respeitadas para que o seu crescimento e integração social se processem de forma harmoniosa, de modo a tornar-se uma pessoa responsável, confiante e equilibrada; Objetivos Os espaços interiores foram pensados para se adaptarem às crianças e às actividades que neles serão desenvolvidas. Estamos convictos que as instalações desempenham um papel crucial no sucesso educativo que pretendemos alcançar. Para que uma criança brinque em segurança, aprenda com alegria, cresça com tranquilidade, o espaço onde ela se movimenta deve ser livre de obstáculos, confortável, iluminado, arejado, termicamente controlado, agradável, pedagogicamente estimulante para que nele se possa viver plenamente e sonhar!",
         "sections": [
             {
-                "title": "Missão",
-                "text": "O Centro Infantil Nova Aurora consiste em assegurar, com qualidade, a satisfação das necessidades básicas da criança, promovendo uma educação que desenvolva o potencial que há em cada indivíduo, de modo a torná-lo uma pessoa feliz. Para cumprir a missão a que se propõe e poder vir a atingir a visão que tem para cada criança - torná-lo uma pessoa feliz - o Centro Infantil Nova Aurora elegeu como valores fundamentais na sua actuação os seguintes:\nSegurança que pressupõe não só a existência de um espaço concebido à medida da criança, onde o risco de acidente é minimizado, mas também um local onde ela se sente protegida, segura e feliz;Afetividade que assenta no princípio de que cada criança é única e que a sua integração no grupo resulta, antes de mais, da compreensão das suas necessidades individuais e de uma atitude por parte do adulto de disponibilidade para a escutar, compreender e acarinhar;\nDisciplina que considera a necessidade do reconhecimento por parte da criança de um conjunto de regras que precisam de ser respeitadas para que o seu crescimento e integração social se processem de forma harmoniosa, de modo a tornar-se uma pessoa responsável, confiante e equilibrada"
-            },
-            {
-                "title": "Objetivos",
-                "text": "Os espaços interiores foram pensados para se adaptarem às crianças e às actividades que neles serão desenvolvidas. Estamos convictos que as instalações desempenham um papel crucial no sucesso educativo que pretendemos alcançar. Para que uma criança brinque em segurança, aprenda com alegria, cresça com tranquilidade, o espaço onde ela se movimenta deve ser livre de obstáculos, confortável, iluminado, arejado, termicamente controlado, agradável, pedagogicamente estimulante para que nele se possa viver plenamente e sonhar!"
-            },
-            {
-                "title": "Notícias e Eventos",
+                "title": "Serviços",
                 "cards": [
                     {
-                        "img": "news_cina_1",
-                        "title": "Mens Project",
-                        "text": "Já começou a campanha que liga a atividade física/desporto e a saúde mental. Espalhe a mensagem! Seja ativo!",
-                        "link": {"name": "Veja o vídeo", "url": "https://www.youtube.com/watch?v=b9SrfKsykXw"}
+                        "img": "images/carrinha.jpeg",
+                        "title": "Carrinha",
+			"text": "A ANARP possui uma carrinha especializada em transporte de crianças. Na resposta social de ATL o Centro Infantil Nova Aurora dispõe de serviço de transporte para a Escola Básica de 1º Ciclo de Miosótis e para a Escola Básica de 2º e 3º Ciclo de Pêro Vaz de Caminha."
+                    },
+                    {
+                        "img": "images/atl.jpeg",
+                        "title": "A.T.L.",
+			"text": "No ATL damos continuidade ao trabalho iniciado nas outras respostas sociais, de modo a que cada criança possa explorar todo o seu potencial, construindo um saber através do saber- fazer e do saber-ser que lhe proporcione um percurso pessoal e escolar gratificante.<br>Construímos “ferramentas” de aprendizagem que permitam o respeito e o reconhecimento de cada criança enquanto pessoa ativa e participativa na sociedade, de forma a adquirir um sentido significativo que vá muito além da teoria.<br>As crianças são consideradas parte fulcral de todo o processo de ensino-aprendizagem que lhes vai permitir construir o seu próprio saber.<br>Não descuidamos de conceitos como o rigor, o método, o trabalho, a disciplina, a exigência, constantemente incutidos pelos agentes educativos, sejam assimilados pela criança de uma forma consciente, ainda que natural."
+                    },
+                    {
+                        "img": "images/jardim.jpeg",
+                        "title": "Jardim de Infância",
+			"text": ""
+                    },
+                    {
+                        "img": "images/creche.jpeg",
+                        "title": "Creche",
+			"text": ""
+                    },
+                    {
+                        "img": "images/extra.jpeg",
+                        "title": "Atividades Extra Curriculares",
+			"text": ""
                     }
-                ]
-            }
-        ]
+		]
+	    },
+            {
+                "title": "Recursos",
+                "cards": [
+
+                    {
+                        "img": "images/ficha.jpeg",
+                        "title": "Ficha de Pré-inscrição",
+			"text": ""
+                    },
+                    {
+                        "img": "images/acordos.jpeg",
+                        "title": "Acordos",
+			"text": ""
+                    },
+                    {
+                        "img": "images/projecto.jpeg",
+                        "title": "Projeto Educativo",
+			"text": ""
+                    },
+                    {
+                        "img": "images/plano.jpeg",
+                        "title": "Plano Anual",
+			"text": ""
+                    },
+                    {
+                        "img": "images/ementas.jpeg",
+                        "title": "Ementas",
+			"text": ""
+                    }
+		]
+	    }
+	]
+
     }
 }

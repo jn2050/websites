@@ -1,0 +1,10 @@
+.Navlogo            { height: 60px; margin: 10px 30px 0px 0px; cursor: pointer; }
+.Navlogo a          { height: 60px; }
+.Navtitle           { margin-right: 30px; font-size: 20px; padding: 10px 0px; }
+.Navmenu            { margin: 5px 0px; }
+.Profile            { position: absolute; display: block; width: 50px; height: 50px; right: 0px; top: 10px; margin: 20px 0px 0px 0px; }
+
+@media only screen and (max-width: 667px) {
+    .Navbar     { display: none; }
+    .Logo       { position: absolute; top: 0px; left: calc(50% - 70px); }
+}

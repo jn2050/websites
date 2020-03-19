@@ -1,43 +1,35 @@
 import React, { Component } from 'react'
-import Spin from './Spin'
 import './Table.css'
+import Icon from './Icon'
 import {formater} from '../js/util.js'
 
 
-const parse = (props) => {
-    if(props.data==null || props.data.length===0 || props.options==null)
-        return null
-    let headers = props.options
-    let rows = []
-    props.data.forEach(row => {
-        let row2 = {}
-        headers.map( (e) => {
-            let v
-            if(e.calc!=null)
-                v = e.calc(row)
-            else
-                v = row[e.field]
-            row2[e.field] = parse_field(v, e)
-        })
-        rows.push(row2)
-    })
-    return {
-        headers: headers,
-        rows: rows
-    }
-}
+// https://www.postgresqltutorial.com/postgresql-fetch/
 
 
 const parse_field = (v, defs) => {
     return formater(defs.format)(v)
 }
 
+const parse = (props) => {
+    if(!props.meta) return null
+    let headers = props.meta
+    let rows = []
+    props.data.forEach(row => {
+        let row2 = {}
+        headers.map( (e) => {
+            let v = e.calc ? e.calc(row) : row[e.field]
+            row2[e.field] = parse_field(v, e)
+        })
+        rows.push(row2)
+    })
+    return { headers: headers, rows: rows }
+}
+
 const get_el = (e, defs) => {
-    if(defs.format!=='L')
-        return <span>{e}</span>
-    if(e==null)
-        return <span></span>
-    return <span class="Label" style={{background: defs.labels[e][1]}}>{defs.labels[e][0]}</span>
+    if(defs.format!=='L') return <span>{e}</span>
+    if(e==null) return <span></span>
+    return <span class="Label" style={{background: defs.labels[e]}}>{e}</span>
 }
 
 
@@ -47,37 +39,19 @@ class Table extends Component {
         let data = parse(this.props)
         this.state = {
             data: data,
-            w: '100%'
+            w: data ? data.headers.reduce( (a,b) => a + (b['width'] || 0), 0) : 0
         }
         this.onClick = this.onClick.bind(this)
     }
 
-    componentDidUpdate(prevProps) {
-        let len1 = this.props.data==null ? 0 : this.props.data.legth
-        let len2 = prevProps.data==null ? 0 : prevProps.data.legth
-        if(this.props.data==null && prevProps.data==null)
-            return
-        if(len1===len2)
-            return
-        let data = parse(this.props)
-        this.setState({
-            data: data,
-            w: data ? data.headers.reduce( (a,b) => a + (b['width'] || 0), 0) : 0
-        })
-    }
-
-    onClick(e, row, field) {
-        this.props.onClick(row, field)
-    }
+    onClick = (e, row, field) => {if(this.props.onClick) this.props.onClick(row, field)}
 
     render_row(row, headers, f) {
         return(
             <div className="TRow">
                 {headers.map( (el) => {
                     return(
-                        <div className={`TData ${el.align}`}
-                            style={{width: el.width}}
-                            onClick={e => this.onClick(e, row, el.field)} >
+                        <div className={`TData ${el.align}`} style={{width: el.width}} onClick={e=>this.onClick(e,row,el.field)}>
                             {f(row[el.field], el)}
                         </div>
                     )
@@ -91,8 +65,8 @@ class Table extends Component {
     }
 
     render_rows_body() {
-        return this.state.data.rows.map( (row) => 
-            this.render_row(row, this.state.data.headers, (row,e) => get_el(row,e)) )
+        return this.state.data.rows.map((row) =>
+            this.render_row(row, this.state.data.headers, (row,e)=>get_el(row,e)) )
     }
 
     render_rows_footer() {
@@ -100,19 +74,19 @@ class Table extends Component {
     }
 
     render() {
-        if(this.state.data==null)
-            return <div className="Table"><Spin msg="Downloading data" /></div>
-        let w = this.state.w + 10
+        console.log(this.state.w)
+        if(!this.state.data || !this.state.data.headers.length)
+            return  <div className="Table"><Icon size={128} icon="empty"/></div>
         return(
             <div className="Table">
-                <div className="TTable" style={{width: w}} >
-                    <div className="THeader" style={{width: w}} >
+                <div className="TTable" style={{width: this.state.w+8}}>
+                    <div className="THeader">
                         {this.render_rows_header()}
                     </div>
-                    <div className="TBody" style={{width: w}} >
+                    <div className="TBody">
                         {this.render_rows_body()}
                     </div>
-                    <div className="TFooter" style={{width: w}} >
+                    <div className="TFooter">
                         {this.render_rows_footer()}
                     </div>
                 </div>
