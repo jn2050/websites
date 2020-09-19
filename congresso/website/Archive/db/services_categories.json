@@ -1,0 +1,14 @@
+[
+	{
+		"id": "corte",
+		"name": "Corte"
+	},
+	{
+		"id": "pintura",
+		"name": "Pintura"
+	},
+	{
+		"id": "quinagem",
+		"name": "quinagem"
+	}
+]

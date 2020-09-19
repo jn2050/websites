@@ -1,0 +1,18 @@
+.Header .LogoContainer  { height: 100%; margin-right: 50px; padding: 20px 0px; }
+.Header.HeaderError     { background: var(--RED); }
+.Header .Logo           { cursor: pointer; }
+.Navmenu                { margin: 0px 0px; }
+.HeaderErrorMsg         { margin: 23px 0px 0px 30px; font-size: 18px; color: #FFFFFF; animation: blinker 2s linear infinite; }
+@keyframes blinker      { 50% { opacity: 0; }}
+.HeaderLogin            { position: absolute; width: 50px; height: 70px; right: 0px; top: 0px; padding: 25px 0px 0px 0px; }
+.HeaderLogin a          { color: var(--BLUE); font-size: 18px; font-weight: 600; }
+.Profile                { position: absolute; width: 50px; height: 70px; right: 0px; top: 0px; padding: 18px 0px 0px 0px; }
+
+                          
+/* max-width: 667px */
+@media only screen and (max-width: 800px) {
+    .LogoContainer      { position: absolute; top: 0px; left: calc(50% - 45px); }
+    .Navmenu            { display: none; }
+    .Burger             { display: block; }
+    .BurgerBody         { display: block; }
+}

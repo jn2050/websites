@@ -1,0 +1,531 @@
+[
+	{
+		"id": "5.1",
+		"name": "AdobeStock_167961717",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_adobestock_167961717.jpeg",
+			"dimensions": {
+				"height": 1080,
+				"width": 1623,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_adobestock_167961717.jpeg",
+			"dimensions": {
+				"height": 720,
+				"width": 1082,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_adobestock_167961717.jpeg",
+			"dimensions": {
+				"height": 360,
+				"width": 541,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_adobestock_167961717.jpeg",
+			"dimensions": {
+				"height": 180,
+				"width": 270,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_adobestock_167961717.jpeg",
+			"dimensions": {
+				"height": 128,
+				"width": 192,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "Muted",
+				"hex": "#7088a1",
+				"population": 37
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#244b6a",
+				"population": 17
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#b8bac5",
+				"population": 10
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#ddcc2a",
+				"population": 5
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#f4f4fc",
+				"population": 2
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#542c3c",
+				"population": 2
+			}
+		]
+	},
+	{
+		"id": "5.2",
+		"name": "AdobeStock_113497184",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_adobestock_113497184.jpeg",
+			"dimensions": {
+				"height": 932,
+				"width": 1920,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_adobestock_113497184.jpeg",
+			"dimensions": {
+				"height": 621,
+				"width": 1280,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_adobestock_113497184.jpeg",
+			"dimensions": {
+				"height": 311,
+				"width": 640,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_adobestock_113497184.jpeg",
+			"dimensions": {
+				"height": 155,
+				"width": 320,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_adobestock_113497184.jpeg",
+			"dimensions": {
+				"height": 128,
+				"width": 264,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "LightMuted",
+				"hex": "#bac0b9",
+				"population": 95
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#473c3d",
+				"population": 91
+			},
+			{
+				"key": "Muted",
+				"hex": "#8b857c",
+				"population": 87
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#704e2c",
+				"population": 4
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#915e36",
+				"population": 3
+			}
+		]
+	},
+	{
+		"id": "5.3",
+		"name": "AdobeStock_64268427",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_adobestock_64268427.jpeg",
+			"dimensions": {
+				"height": 1080,
+				"width": 1620,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_adobestock_64268427.jpeg",
+			"dimensions": {
+				"height": 720,
+				"width": 1080,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_adobestock_64268427.jpeg",
+			"dimensions": {
+				"height": 360,
+				"width": 540,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_adobestock_64268427.jpeg",
+			"dimensions": {
+				"height": 180,
+				"width": 270,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_adobestock_64268427.jpeg",
+			"dimensions": {
+				"height": 128,
+				"width": 192,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "Muted",
+				"hex": "#a08158",
+				"population": 60
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#d7c8bd",
+				"population": 40
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#497ebb",
+				"population": 33
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#684f2a",
+				"population": 15
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#d5bca4",
+				"population": 9
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#573f2a",
+				"population": 7
+			}
+		]
+	},
+	{
+		"id": "5.4",
+		"name": "1461666949719_340678_d3a388103ad4d2d8721bbf82c11bbc5a",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_1461666949719_340678_d3a388103ad4d2d8721bbf82c11bbc5a.jpg",
+			"dimensions": {
+				"height": 667,
+				"width": 1000,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_1461666949719_340678_d3a388103ad4d2d8721bbf82c11bbc5a.jpg",
+			"dimensions": {
+				"height": 667,
+				"width": 1000,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_1461666949719_340678_d3a388103ad4d2d8721bbf82c11bbc5a.jpg",
+			"dimensions": {
+				"height": 360,
+				"width": 540,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_1461666949719_340678_d3a388103ad4d2d8721bbf82c11bbc5a.jpg",
+			"dimensions": {
+				"height": 180,
+				"width": 270,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_1461666949719_340678_d3a388103ad4d2d8721bbf82c11bbc5a.jpg",
+			"dimensions": {
+				"height": 128,
+				"width": 192,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "DarkMuted",
+				"hex": "#393b45",
+				"population": 57
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#b8c3d6",
+				"population": 49
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#2364bf",
+				"population": 16
+			},
+			{
+				"key": "Muted",
+				"hex": "#627499",
+				"population": 12
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#082454",
+				"population": 5
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#78a4d8",
+				"population": 2
+			}
+		]
+	},
+	{
+		"id": "5.5",
+		"name": "AdobeStock_17356199",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_adobestock_17356199.jpeg",
+			"dimensions": {
+				"height": 1080,
+				"width": 1881,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_adobestock_17356199.jpeg",
+			"dimensions": {
+				"height": 720,
+				"width": 1254,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_adobestock_17356199.jpeg",
+			"dimensions": {
+				"height": 360,
+				"width": 627,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_adobestock_17356199.jpeg",
+			"dimensions": {
+				"height": 180,
+				"width": 314,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_adobestock_17356199.jpeg",
+			"dimensions": {
+				"height": 128,
+				"width": 223,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "LightMuted",
+				"hex": "#a0b6c8",
+				"population": 66
+			},
+			{
+				"key": "Muted",
+				"hex": "#577696",
+				"population": 47
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#3f5b84",
+				"population": 18
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#273a5e",
+				"population": 11
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#d4e4f4",
+				"population": 8
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#30445c",
+				"population": 2
+			}
+		]
+	},
+	{
+		"id": "5.6",
+		"name": "agenda_image",
+		"type": "png",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_agenda_image.png",
+			"dimensions": {
+				"width": 1692,
+				"height": 969,
+				"type": "png"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_agenda_image.png",
+			"dimensions": {
+				"width": 1257,
+				"height": 720,
+				"type": "png"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_agenda_image.png",
+			"dimensions": {
+				"width": 629,
+				"height": 360,
+				"type": "png"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_agenda_image.png",
+			"dimensions": {
+				"width": 314,
+				"height": 180,
+				"type": "png"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_agenda_image.png",
+			"dimensions": {
+				"width": 224,
+				"height": 128,
+				"type": "png"
+			}
+		},
+		"palette": [
+			{
+				"key": "Vibrant",
+				"hex": "#72afc4",
+				"population": 69
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#8cd4ec",
+				"population": 59
+			},
+			{
+				"key": "Muted",
+				"hex": "#80D3E5",
+				"population": 32
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#74acbc",
+				"population": 4
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#274f5d",
+				"population": 0
+			}
+		]
+	},
+	{
+		"id": "5.8",
+		"name": "1462008753854_149234_872efb39f55d32950f21e7122715728d",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 651,
+				"width": 684,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 651,
+				"width": 684,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 360,
+				"width": 378,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 180,
+				"width": 189,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 128,
+				"width": 134,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "Muted",
+				"hex": "#6098a3",
+				"population": 49
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#6f5248",
+				"population": 32
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#adc9d4",
+				"population": 11
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#deae91",
+				"population": 9
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#188cad",
+				"population": 7
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#28a0c4",
+				"population": 2
+			}
+		]
+	}
+]

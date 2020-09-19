@@ -1,0 +1,79 @@
+[
+	{
+		"id": "4.1",
+		"name": "white logo",
+		"type": "png",
+		"FHD": {
+			"url": "//cdn.liita.site/me_and_you/images/fhd_white_logo.png",
+			"dimensions": {
+				"width": 204,
+				"height": 84,
+				"type": "png"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/me_and_you/images/hd_white_logo.png",
+			"dimensions": {
+				"width": 204,
+				"height": 84,
+				"type": "png"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/me_and_you/images/sd_white_logo.png",
+			"dimensions": {
+				"width": 204,
+				"height": 84,
+				"type": "png"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/me_and_you/images/ld_white_logo.png",
+			"dimensions": {
+				"width": 204,
+				"height": 84,
+				"type": "png"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/me_and_you/images/thumb_white_logo.png",
+			"dimensions": {
+				"width": 204,
+				"height": 84,
+				"type": "png"
+			}
+		},
+		"palette": [
+			{
+				"key": "Vibrant",
+				"hex": "#6cc4bc",
+				"population": 68
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#b4d6d1",
+				"population": 41
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#4f4f4f",
+				"population": 9
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#50e4a8",
+				"population": 0
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#255e59",
+				"population": 0
+			},
+			{
+				"key": "Muted",
+				"hex": "#70b0a0",
+				"population": 0
+			}
+		]
+	}
+]

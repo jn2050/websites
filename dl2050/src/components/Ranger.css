@@ -1,0 +1,19 @@
+.Ranger             { display: block; float: letf;  position: relative; width: 120px; height: 15px; margin: 10px 10px; padding: 0px 0px; 
+                      color: #333333; font-size: 14px; font-weight: 200; cursor: pointer; }
+
+/* .Ranger .Base       {  } */
+
+
+.Ranger .Slot       { display: block; float: left; width: 10px; height: 100%; background: #EEEEEE; margin: 0px; }
+
+.Ranger .Dot        { display: block; height: 5px; width: 5px; margin: 5px auto;  border-radius: 50%; background-color: #999999; }
+
+.Tooltip                        { position: relative; display: inline-block; background: blue; }
+
+.Tooltip .TooltipText           { visibility: visible; opacity: 0; position: absolute; top: -70px; left: -14px; width: 50px; 
+                                  background: #999999; padding: 10px; border-radius: 50%; color: white; 
+                                  text-align: center;  z-index: 1; }
+.Tooltip .TooltipText::after    { content: ""; position: absolute; top: 100%; left: 50%; margin-left: -5px; border-width: 5px;
+                                  border-style: solid; border-color: #999999 transparent transparent transparent; }
+
+.Tooltip:hover .TooltipText     { visibility: visible; opacity: 1; }

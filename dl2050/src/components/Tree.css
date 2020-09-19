@@ -1,0 +1,21 @@
+.Tree                                       { float: left; width: 400px; height: calc(100% - 20px); padding: 20px 10px;
+                                              overflow-y: auto; scroll-padding: 20px 10px; }
+.Tree .Node                                 { float: left; width: 100%; width: calc(100% - 10px); margin-left: 10px; cursor: pointer; }
+.Tree .Node                                 { font-size: 14px; }
+.Tree .Node.L2                              { font-size: 13px; }
+.Tree .Node.L3                              { font-size: 12px; }
+
+.Tree .Node .Item                           { position: relative; float: left; width: 100%; user-select: none ;}
+.Tree .Node .Item:hover                     { color: #FFFFFF; background: var(--BLUE); }
+.Tree .Node.Selected .Item                  { color: var(--BLUE); }
+.Tree .Node.Selected .Item:hover            { color: #FFFFFF; }
+.Tree .Node.Inactive .Item                  { color: #999999; cursor: not-allowed; }
+.Tree .Node.Inactive .Item:hover            { color: #999999; background: transparent; }
+
+.Tree .Node .Item .TextBox                  { display: block; float: left; padding: 5px 10px; width: auto; max-width: calc(100% - 20px);}
+.Tree .Node .Item .TextBox                  { height: auto; overflow: hidden; }
+.Tree .Node .Item .TextBox:hover            { overflow: hidden; }
+.Tree .Node .Icon.down,
+.Tree .Node .Icon.right                     { float: left; margin-top: 10px; }
+
+.Section.Sidenav .Icon path                 { fill: #FFFFFF; }

@@ -1,0 +1,4 @@
+.Result                  { position: relative; display: flex; width: 300px; height: 300px; margin: 20px;
+                           justify-content: center; align-items: center; flex-direction: column;  border: 2px dashed #999999; }
+
+.Result .Button.Text     { }

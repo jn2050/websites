@@ -1,0 +1,120 @@
+[
+	{
+		"id": "congresso_internacional_de_medicina_de_hipoxia",
+		"name": "Congresso Internacional de Medicina de Hipóxia",
+		"slogan": "Party in the middle of the Lisbon traffic",
+		"summary": "Turn the music loud and enjoy your own private rooftop party at the rush hour! Visit the most charismatic streets of Lisbon and be ready to stop the traffic with your double-decker bus!\n\n**Last stop? You decide!**",
+		"description": "This products has **amazing features**",
+		"card": {
+			"subtitle": "Lisbon Traffic Party"
+		},
+		"images": [
+			"5.4",
+			"5.3",
+			"5.2"
+		],
+		"categories": [
+			"1"
+		],
+		"backgroundImages": [
+			"5.1",
+			"5.6"
+		],
+		"tags": [
+			"1",
+			"2"
+		],
+		"eventTime": {
+			"startDateTime": 1529020800,
+			"endDateTime": 1529279999
+		},
+		"availability": {
+			"startDate": 1507098994983,
+			"endDate": 2507098994983
+		},
+		"agenda": [
+			{
+				"title": "Workshop – Avaliação cardio-pulmonar",
+				"presenter": "",
+				"startDate": 1529071200,
+				"duration": 0,
+				"location": "",
+				"summary": "",
+				"images": []
+			},
+			{
+				"title": "Jogo futebol Portugal – Espanha (Praça do Município)",
+				"presenter": "",
+				"startDate": 1529082000,
+				"duration": 0,
+				"location": "",
+				"summary": "",
+				"images": []
+			},
+			{
+				"title": "FISIOLOGIA DA HIPÓXIA",
+				"presenter": "Pedro Amorim, Ana Sousa (José Gomes Pereira)",
+				"startDate": 1529140800,
+				"duration": 3000,
+				"location": "",
+				"summary": "",
+				"images": []
+			},
+			{
+				"title": "EXPERIÊNCIAS DE CENTROS DE ALTITUDE, REAL E SIMULADA",
+				"presenter": "Carmen Calderon, André Guimarães, Ricardo Silvestre (João Becker)",
+				"startDate": 1529145000,
+				"duration": 4500,
+				"location": "",
+				"summary": "",
+				"images": []
+			},
+			{
+				"title": "DOENÇAS DE ALTITUDE",
+				"presenter": "Veronica Rainone, Maria Antónia Nerin (Jaime Milheiro)",
+				"startDate": 1529157600,
+				"duration": 4200,
+				"location": "",
+				"summary": "",
+				"images": [
+					"5.8"
+				]
+			},
+			{
+				"title": "VIVÊNCIAS DE ATLETAS, ALPINISTAS E TREINADORES EM ALTITUDE",
+				"presenter": "Armando Teixeira, Rui Sousa, Fernando Pimenta, Miguel Nascimento, DTN, Pedro Guedes (Paulo Pires)",
+				"startDate": 1529163000,
+				"duration": 3600,
+				"location": "",
+				"summary": "",
+				"images": []
+			},
+			{
+				"title": "HIPÓXIA, RENDIMENTO E BEM ESTAR",
+				"presenter": "Todos (Jaime Milheiro)",
+				"startDate": 1529169300,
+				"duration": 0,
+				"location": "",
+				"summary": "Debate final",
+				"images": [
+					"5.8"
+				]
+			},
+			{
+				"title": "Actividades ar livre",
+				"presenter": "",
+				"startDate": 1529218800,
+				"duration": 0,
+				"location": "",
+				"summary": "",
+				"images": []
+			}
+		],
+		"staff": [
+			"dr_jaime_milheiro"
+		],
+		"partners": [
+			"via_verde"
+		]
+	}
+]

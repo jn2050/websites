@@ -1,0 +1,47 @@
+
+.ImageGridContainer         { position: relative; float: left; width: 600px; height: 400px; margin: 20px; }
+.Images                     { position: relative; display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; 
+                              width: 100%; height: 100%;  border: 1px solid #333333; overflow: auto; }
+.Images img                 { float: left; width: 150px; height: 150px; margin: 10px; object-fit: cover; object-position: 50% 0%; }
+
+
+.Image .Bar                 { position: relative; float:left; width: 100%; height: 25px; margin: 0px auto;
+                              background: #CCCCCC; border: 1px solid #333333; border-bottom: 1px solid #FFFFFF; }
+.Image .Bar .Icon.expand    { position: absolute;  top: 2px; right: 10px; fill: #555555; z-index:2; }
+
+.ImageContainer             { position: relative; float: left; width: 100%; height: 100%; margin: 0px; }
+.ImageContainer.Box         { width: 300px; height: 300px; }
+.Image                      { position: relative; float: left; width: 100%; height: 100%; }
+.Image img                  { float: left; width: 100%; height: 100%; object-fit: contain; object-fit: cover; object-position: 50% 0%; }
+.Image.Empty                { border-radius: 10px; border: 2px dashed #999999; display: flex; justify-content: center; align-items: center; }
+.ImageSelector              { float: left; width: auto; min-width: 100%; height: 90px; border-top: 3px solid #FFFFFF;
+                              overflow: auto; white-space: nowrap; }
+.ImageSelector img          { display: inline-block; width: 25%; height: 75px; object-fit: contain; object-fit: cover; object-position: 50% 0%; }
+
+.Image .LeftPanel,
+.Image .RightPanel          { display: none; position: absolute; background-color: rgba(0,0,0,0.60); cursor: pointer; }
+.Image:hover .LeftPanel,
+.Image:hover .RightPanel    { display: block; }
+.Image .LeftPanel           { top: 0px; left: 0px; width: 60px; height: 100%; }
+.Image .RightPanel          { top: 0px; right: 0px; width: 60px; height: 100%; }
+.Image .Icon.left           { position: absolute; top: calc(50% - 16px); left: 15px; }
+.Image .Icon.close          { position: absolute; top: 15px; left: 15px; }
+.Image .Icon.expand         { position: absolute; top: 15px; right: 15px; }
+.Image .Icon.right          { position: absolute; top: calc(50% - 16px); right: 15px; }
+.Image .Icon.download       { position: absolute; bottom: 20px; right: 15px; }
+.Image .Icon.normal         { position: absolute; top: 15px; right: 15px; }
+.Image .Icon.empty path     { fill: #999999; }
+
+.Expand.ImageGridContainer  { width: calc(100vw - 0px); height: calc(100vh - 0px); margin: 0px; }
+/* .Expand .Images             { width: calc(100vw - 0px); height: calc(100vh - 0px); } */
+.Expand .Bar                { height: 35px; }
+.Expand .Bar .Icon.normal   { position: absolute; top: 8px; right: 20px; fill: #555555; }
+
+.Expand.ImageContainer      { width: calc(100vw - 0px); height: calc(100vh - 0px); margin: 0px; }
+.Expand .Image              { width: 100%; height: 100%; border: 1px solid #777777; }
+.Expand .Image .Icon.close  { position: absolute; top: 15px; right: 15px; }
+
+/* 
+.SmalllOverlay              { display: block; position: absolute; top: 0px; right: 10px; width: 40px; height: 40px; 
+                              background-color: rgba(0,0,0,0.4); z-index:3; }
+*/

@@ -1,0 +1,34 @@
+.Select.Dropdown                                { display: flex; flex-wrap: wrap; position: relative; width: 250px; margin: 10px;
+                                                  text-align: center; user-select: none; }
+.Select.Dropdown .Title                         { width: 100%; flex-basis: 100%; margin: 0px 0px 2px 2px; padding: 0px;
+                                                  font-size: 11px; text-transform: uppercase; }
+.Select.Dropdown .Choice                        { position: relative; flex-basis: 100%; width: 100%; height: 25px; padding: 2px 10px;
+                                                  border: 1px solid #777777; cursor: pointer; overflow: hidden; }
+.Select.Dropdown .Options                       { position: absolute; width: 100%; max-height: 150px; top: 46px; left: 0px;  border: 1px solid #777777;
+                                                  padding: 10px 0px; z-index: 2; background: #FFFFFF; opacity: 1.0; overflow-y: scroll; }
+.Select.Dropdown .Filter                        { position: relative; width: 100%; height: 32px; padding: 5px 10px; background: rgba(0,0,0,.2); }
+.Select.Dropdown li                             { margin: 0px; padding: 4px 10px; font-size: 14px; text-align: left;  font-weight: 400; }
+.Select.Dropdown li:hover                       { color: #FFFFFF; background: var(--BLUE); }
+.Select.Dropdown span                           { display: block; width: calc(100% - 20px); height: 100%; text-align: left; font-size: 14px;
+                                                  color: #555555; }
+.Select.Dropdown .Placeholder                   { color: #999999; font-style: italic; }
+.Select.Dropdown input                          { width: calc(100% - 20px); height: 100%; background: transparent; border: 0px;
+                                                  text-align: left; font-size: 14px; color: #555555; }
+.Select.Dropdown .Icon.down                     { position: absolute; top: 8px; right: 5px; fill: #777777; }
+.Select.Dropdown .Icon.close                    { position: absolute; top: 8px; right: 5px; fill: red; }
+.Select.Dropdown.Compact                        { position: relative; width: 100%; margin: 0px; }
+.Select.Dropdown.Compact .Choice                { border: 0px; padding: 0px; }
+.Select.Dropdown.Compact .Filter                { display: none; }
+
+.Select .Bar                                    { width: 100%; height: 50px; border-bottom: 1px solid #DDDDDD; }
+.Select h2                                      { margin: 0px; padding: 10px; font-size: 18px; }
+
+.Select.Grid                                    { width: 100%; height: 100%; justify-content: center; border-radius: 10px; overflow: auto; }
+.Select.Grid.Box                                { width: 500px; height: 300px; margin: 20px; }
+.Select.Grid .Item:hover                        { background: var(--BLUE); }
+.Select.Grid .Item.Selected                     { background: var(--BLUE); }
+
+
+.Select.List                                    { width: 300px; height: 350px; justify-content: center; border-radius: 10px; overflow: auto; }
+.Select.List.Box                                { width: 300px; height: 400px; margin: 20px; }
+.Select.List .ItemItem                          { width: calc(100% - 0px); border-bottom: 1px solid #DDDDDD; }

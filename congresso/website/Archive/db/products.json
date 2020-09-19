@@ -1,0 +1,87 @@
+[
+	{
+		"id": "1",
+		"name": "Festa no trânsito",
+		"slogan": "Party in the middle of the Lisbon traffic",
+		"summary": "Turn the music loud and enjoy your own private rooftop party at the rush hour! Visit the most charismatic streets of Lisbon and be ready to stop the traffic with your double-decker bus!\n\n**Last stop? You decide!**",
+		"description": "This products has **amazing features**",
+		"card": {
+			"subtitle": "Lisbon Traffic Party"
+		},
+		"images": ["2.1"],
+		"backgroundImages": ["2.1"],
+		"categories": ["1"],
+		"tags": ["1","2"],
+		"availability": {
+			"startDate": 1507098994983,
+			"endDate": 2507098994983
+		},
+		"complementary": ["1","2"]
+	},
+	{
+		"id": "2",
+		"name": "Hilly Landscape",
+		"slogan": "Make easy work of Lisbon's hilly landscape",
+		"summary": "Make easy work of Lisbon's hilly landscape with the help of an electric bike and enjoy the panoramic city views!\n\n**Are you ready to beat the 7 hills?**",
+		"description": "This products has **amazing features**",
+		"card": {
+			"subtitle": "Ride in Lisbon"
+		},
+		"images": ["2.3"],
+		"backgroundImages": ["2.3"],
+		"categories": ["3","1","2"],
+		"tags": ["2"],
+		"availability": {
+			"startDate": 1507098994983,
+			"endDate": 2507098994983
+		}
+	},
+	{
+		"id": "3",
+		"name": "Cliff Jumping",
+		"slogan": "Jump over a cliff",
+		"summary": "It’s time to get out of your comfort zone? Let’s jump over a cliff and release all the adrenaline and fears that are trapped inside your body! Enjoy the **landscapes** of **Natural Parks** and remove this experience from your bucket list.",
+		"description": "This products has **amazing features**",
+		"images": ["2.2"],
+		"categories": ["1","2"],
+		"tags": ["2"],
+		"availability": {
+			"startDate": 1507098994983,
+			"endDate": 2507098994983
+		}
+	},
+	{
+		"id": "4",
+		"name": "Escape Room",
+		"slogan": "Be a survivor and escape the room ",
+		"summary": "Use your native survival instincts and your problem solving skills and escape the most challenging room in Lisbon! You have 60 minutes to give the best of you before get locked!",
+		"description": "This products has **amazing features**",
+		"card": {
+			"subtitle": "60 minutes to escape"
+		},
+		"images": ["2.4"],
+		"categories": ["1","2"],
+		"tags": ["2"],
+		"availability": {
+			"startDate": 1507098994983,
+			"endDate": 2507098994983
+		}
+	},
+	{
+		"id": "5",
+		"name": "Sky Diving",
+		"slogan": "Dive on the clear skies of Alentejo",
+		"summary": "Are you brave enough to jump out of an airplane? Be ready to cross the skies and fly for **more than 30 seconds before opening the parachute**! Contemplate the sky view of Alentejo before getting your feet back the ground.",
+		"description": "This products has **amazing features**",
+		"card": {
+			"subtitle": "Skies of Alentejo"
+		},
+		"images": ["2.5"],
+		"categories": ["1","2"],
+		"tags": ["2"],
+		"availability": {
+			"startDate": 1507098994983,
+			"endDate": 2507098994983
+		}
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"id": "telefone",
+		"name": "Telefone",
+		"type": "phone",
+		"value": "+351 212 108 005"
+	},
+	{
+		"id": "whatsapp",
+		"name": "Whatsapp",
+		"type": "whatsapp",
+		"value": "+351 212 108 005"
+	},
+	{
+		"id": "fax",
+		"name": "Fax",
+		"type": "fax",
+		"value": "+351 212 108 007"
+	},
+	{
+		"id": "email",
+		"name": "E-mail",
+		"type": "mail",
+		"value": "me.you.innovate@gmail.com"
+	}
+]

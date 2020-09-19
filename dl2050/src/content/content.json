@@ -1,0 +1,129 @@
+{"webpages": [
+  {
+    "webpage": "Main",
+    "header": {
+      "MaxWidth": true,
+      "background": "#8f9799"
+    },
+    "sections": [
+      {
+        "MaxWidth": true,
+        "cards": [
+          {
+            "type": "Hero",
+            "img": "dl2050-intro.jpg",
+            "backgroundImg": "world-map.jpg",
+            "title": "Creating tech companies",
+            "text": "Digital Logic ..."
+          }
+        ]
+      },
+      {
+        "MaxWidth": true,
+        "title": "About Us",
+        "cards": [
+          {
+            "type": "Text",
+            "textlines": [
+              "Digital Logic is a specialized software company founded in Porto, Portugal in 2015.",
+              "The company develops its own technology stack to create new products and spin-off startups across the consumer and enterprise spaces, working with former founders and CEOs with domain expertise.",
+              "We are specialists in Deep Neural Networks, Business Inteligence, Software as a Service and Internet of the Things."
+            ]
+          }
+        ]
+      },
+      {
+        "MaxWidth": true,
+        "title": "Spin-offs",
+        "cards": [
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "Cloudware",
+            "text" : "Cloud based accounting software for small businesses and accountants. Software as a Service (SaaS) with Billing, Purchases, Inventory, Accounting and Salaries.  Market leader in Portugal with over 70.000 active customers."
+          },
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "Petapilot",
+            "text": "Fintech company for automatic fiscal fraud detection. Large scale analytics, fully simplifies and automates the audit process for Governments, Corporations and SME. Three European Tax Authorities and over 10.000 companies as customers."
+          },
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "KuantoKusta",
+            "text": "Leading price comparison in Portugal. B2C website with prices for over 1 million products. The company lauched its own marketplace in 2018."
+          },
+          {
+            "type": "VBox",
+            "img": "nanopower-logo.png",
+            "title" : "NanoPower",
+            "text": "Patent pending sub-threshold microchip architecture. The technology is able to reduce the power consumption in idle mode of any other microchip by several orders of magnitude, increasing 10 fold the batery lifetime of IoT systems."
+          }
+        ]
+      },
+      {
+        "MaxWidth": true,
+        "title": "Projects under development",
+        "cards": [
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "Cloudware",
+            "text" : "Cloud based accounting software for small businesses and accountants. Software as a Service (SaaS) with Billing, Purchases, Inventory, Accounting and Salaries.  Market leader in Portugal with over 70.000 active customers."
+          },
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "Petapilot",
+            "text": "Fintech company for automatic fiscal fraud detection. Large scale analytics, fully simplifies and automates the audit process for Governments, Corporations and SME. Three European Tax Authorities and over 10.000 companies as customers."
+          },
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "KuantoKusta",
+            "text": "Leading price comparison in Portugal. B2C website with prices for over 1 million products. The company lauched its own marketplace in 2018."
+          },
+          {
+            "type": "VBox",
+            "img": "nanopower-logo.png",
+            "title" : "NanoPower",
+            "text": "Patent pending sub-threshold microchip architecture. The technology is able to reduce the power consumption in idle mode of any other microchip by several orders of magnitude, increasing 10 fold the batery lifetime of IoT systems."
+          }
+        ]
+      },
+      {
+        "MaxWidth": true,
+        "title": "Investments",
+        "cards": [
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "Cloudware",
+            "text" : "Cloud based accounting software for small businesses and accountants. Software as a Service (SaaS) with Billing, Purchases, Inventory, Accounting and Salaries.  Market leader in Portugal with over 70.000 active customers."
+          },
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "Petapilot",
+            "text": "Fintech company for automatic fiscal fraud detection. Large scale analytics, fully simplifies and automates the audit process for Governments, Corporations and SME. Three European Tax Authorities and over 10.000 companies as customers."
+          },
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "KuantoKusta",
+            "text": "Leading price comparison in Portugal. B2C website with prices for over 1 million products. The company lauched its own marketplace in 2018."
+          },
+          {
+            "type": "VBox",
+            "img": "nanopower-logo.png",
+            "title" : "NanoPower",
+            "text": "Patent pending sub-threshold microchip architecture. The technology is able to reduce the power consumption in idle mode of any other microchip by several orders of magnitude, increasing 10 fold the batery lifetime of IoT systems."
+          }
+        ]
+      }
+   ],
+   "footer": {
+    }
+  }
+]}

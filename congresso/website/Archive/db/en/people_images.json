@@ -1,0 +1,690 @@
+[
+	{
+		"id": "1.1",
+		"name": "1462008753854_149234_872efb39f55d32950f21e7122715728d",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 651,
+				"width": 684,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 651,
+				"width": 684,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 360,
+				"width": 378,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 180,
+				"width": 189,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_1462008753854_149234_872efb39f55d32950f21e7122715728d.jpg",
+			"dimensions": {
+				"height": 128,
+				"width": 134,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "Muted",
+				"hex": "#6098a3",
+				"population": 49
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#6f5248",
+				"population": 32
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#adc9d4",
+				"population": 11
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#deae91",
+				"population": 9
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#188cad",
+				"population": 7
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#28a0c4",
+				"population": 2
+			}
+		]
+	},
+	{
+		"id": "1.6",
+		"name": "1448895908304_125537_020c4fe99abe7fa87ee0bf5ffa6bda9e",
+		"type": "gif",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_1448895908304_125537_020c4fe99abe7fa87ee0bf5ffa6bda9e.gif",
+			"dimensions": {
+				"width": 433,
+				"height": 533,
+				"type": "png"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_1448895908304_125537_020c4fe99abe7fa87ee0bf5ffa6bda9e.gif",
+			"dimensions": {
+				"width": 433,
+				"height": 533,
+				"type": "png"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_1448895908304_125537_020c4fe99abe7fa87ee0bf5ffa6bda9e.gif",
+			"dimensions": {
+				"width": 292,
+				"height": 360,
+				"type": "png"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_1448895908304_125537_020c4fe99abe7fa87ee0bf5ffa6bda9e.gif",
+			"dimensions": {
+				"width": 146,
+				"height": 180,
+				"type": "png"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_1448895908304_125537_020c4fe99abe7fa87ee0bf5ffa6bda9e.gif",
+			"dimensions": {
+				"width": 128,
+				"height": 158,
+				"type": "png"
+			}
+		},
+		"palette": [
+			{
+				"key": "Muted",
+				"hex": "#947467",
+				"population": 55
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#436bd5",
+				"population": 54
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#c29587",
+				"population": 45
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#6c93f2",
+				"population": 26
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#3b393f",
+				"population": 19
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#283984",
+				"population": 6
+			}
+		]
+	},
+	{
+		"id": "1.2",
+		"name": "Ana Sousa",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_ana_sousa.jpg",
+			"dimensions": {
+				"height": 738,
+				"width": 1106,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_ana_sousa.jpg",
+			"dimensions": {
+				"height": 720,
+				"width": 1079,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_ana_sousa.jpg",
+			"dimensions": {
+				"height": 360,
+				"width": 540,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_ana_sousa.jpg",
+			"dimensions": {
+				"height": 180,
+				"width": 270,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_ana_sousa.jpg",
+			"dimensions": {
+				"height": 128,
+				"width": 192,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "Muted",
+				"hex": "#a87861",
+				"population": 109
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#544635",
+				"population": 87
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#c6a18e",
+				"population": 6
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#c48d75",
+				"population": 5
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#745c0c",
+				"population": 5
+			}
+		]
+	},
+	{
+		"id": "1.3",
+		"name": "João Beckert",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_joão_beckert.jpg",
+			"dimensions": {
+				"height": 341,
+				"width": 268,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_joão_beckert.jpg",
+			"dimensions": {
+				"height": 341,
+				"width": 268,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_joão_beckert.jpg",
+			"dimensions": {
+				"height": 341,
+				"width": 268,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_joão_beckert.jpg",
+			"dimensions": {
+				"height": 180,
+				"width": 141,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_joão_beckert.jpg",
+			"dimensions": {
+				"height": 163,
+				"width": 128,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "LightMuted",
+				"hex": "#b4b4bc",
+				"population": 82
+			},
+			{
+				"key": "Muted",
+				"hex": "#ac7d69",
+				"population": 74
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#d4dbeb",
+				"population": 64
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#c4947c",
+				"population": 10
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#82503c",
+				"population": 6
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#694434",
+				"population": 3
+			}
+		]
+	},
+	{
+		"id": "1.4",
+		"name": "Maria Rot",
+		"type": "png",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_maria_rot.png",
+			"dimensions": {
+				"width": 341,
+				"height": 454,
+				"type": "png"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_maria_rot.png",
+			"dimensions": {
+				"width": 341,
+				"height": 454,
+				"type": "png"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_maria_rot.png",
+			"dimensions": {
+				"width": 270,
+				"height": 360,
+				"type": "png"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_maria_rot.png",
+			"dimensions": {
+				"width": 135,
+				"height": 180,
+				"type": "png"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_maria_rot.png",
+			"dimensions": {
+				"width": 128,
+				"height": 170,
+				"type": "png"
+			}
+		},
+		"palette": [
+			{
+				"key": "LightVibrant",
+				"hex": "#a5d0f4",
+				"population": 54
+			},
+			{
+				"key": "Muted",
+				"hex": "#788faa",
+				"population": 54
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#344b67",
+				"population": 15
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#9ab0c8",
+				"population": 13
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#7c9cc4",
+				"population": 1
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#293f5b",
+				"population": 0
+			}
+		]
+	},
+	{
+		"id": "1.5",
+		"name": "Miguel Nascimento",
+		"type": "png",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_miguel_nascimento.png",
+			"dimensions": {
+				"width": 786,
+				"height": 1080,
+				"type": "png"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_miguel_nascimento.png",
+			"dimensions": {
+				"width": 524,
+				"height": 720,
+				"type": "png"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_miguel_nascimento.png",
+			"dimensions": {
+				"width": 262,
+				"height": 360,
+				"type": "png"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_miguel_nascimento.png",
+			"dimensions": {
+				"width": 131,
+				"height": 180,
+				"type": "png"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_miguel_nascimento.png",
+			"dimensions": {
+				"width": 128,
+				"height": 176,
+				"type": "png"
+			}
+		},
+		"palette": [
+			{
+				"key": "DarkMuted",
+				"hex": "#5f4833",
+				"population": 62
+			},
+			{
+				"key": "Muted",
+				"hex": "#9a745a",
+				"population": 14
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#87100f",
+				"population": 5
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#c9b6a1",
+				"population": 3
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#ccac84",
+				"population": 2
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#942424",
+				"population": 1
+			}
+		]
+	},
+	{
+		"id": "1.7",
+		"name": "Ricardo Silvestre",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_ricardo_silvestre.jpg",
+			"dimensions": {
+				"height": 1080,
+				"width": 939,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_ricardo_silvestre.jpg",
+			"dimensions": {
+				"height": 720,
+				"width": 626,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_ricardo_silvestre.jpg",
+			"dimensions": {
+				"height": 360,
+				"width": 313,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_ricardo_silvestre.jpg",
+			"dimensions": {
+				"height": 180,
+				"width": 157,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_ricardo_silvestre.jpg",
+			"dimensions": {
+				"height": 147,
+				"width": 128,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "Muted",
+				"hex": "#a96f55",
+				"population": 20
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#5a4434",
+				"population": 7
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#be9581",
+				"population": 6
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#a45c14",
+				"population": 1
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#f4bc9c",
+				"population": 1
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#6c2c0c",
+				"population": 1
+			}
+		]
+	},
+	{
+		"id": "1.8",
+		"name": "Veronica",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_veronica.jpg",
+			"dimensions": {
+				"height": 480,
+				"width": 480,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_veronica.jpg",
+			"dimensions": {
+				"height": 480,
+				"width": 480,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_veronica.jpg",
+			"dimensions": {
+				"height": 360,
+				"width": 360,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_veronica.jpg",
+			"dimensions": {
+				"height": 180,
+				"width": 180,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_veronica.jpg",
+			"dimensions": {
+				"height": 128,
+				"width": 128,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "DarkMuted",
+				"hex": "#473b37",
+				"population": 40
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#274674",
+				"population": 31
+			},
+			{
+				"key": "Muted",
+				"hex": "#728d97",
+				"population": 28
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#c0fafa",
+				"population": 9
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#aec9c2",
+				"population": 6
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#213b63",
+				"population": 0
+			}
+		]
+	},
+	{
+		"id": "1.9",
+		"name": "Armando",
+		"type": "png",
+		"FHD": {
+			"url": "//cdn.liita.site/cimh/images/fhd_armando.png",
+			"dimensions": {
+				"width": 1280,
+				"height": 853,
+				"type": "png"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimh/images/hd_armando.png",
+			"dimensions": {
+				"width": 1080,
+				"height": 720,
+				"type": "png"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimh/images/sd_armando.png",
+			"dimensions": {
+				"width": 540,
+				"height": 360,
+				"type": "png"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimh/images/ld_armando.png",
+			"dimensions": {
+				"width": 270,
+				"height": 180,
+				"type": "png"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimh/images/thumb_armando.png",
+			"dimensions": {
+				"width": 192,
+				"height": 128,
+				"type": "png"
+			}
+		},
+		"palette": [
+			{
+				"key": "Muted",
+				"hex": "#7aa352",
+				"population": 38
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#c7e4a3",
+				"population": 37
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#4a6336",
+				"population": 10
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#0f1c04",
+				"population": 5
+			},
+			{
+				"key": "LightMuted",
+				"hex": "#dfcfbd",
+				"population": 5
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#94bc5c",
+				"population": 1
+			}
+		]
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"id": "dr_jaime_milheiro",
+		"name": "Dr. Jaime Milheiro",
+		"summary": "Medical specialist in Physical Medicine and Rehabilitation and Sports Medicine\n\nClinical Director of the Porto Exercise Clinic\n\nDeputy Clinical Director of the Portuguese Olympic Committee\n\nCertified Physician of the American Board of Anti-Aging and Regenerative Medicine\n\nMember of the Commission on Ecology and Health Promotion of the Northern Regional Section of the Doctors Order",
+		"images": [
+			"1.1"
+		]
+	},
+	{
+		"id": "ana_sousa",
+		"name": "Ana Sousa",
+		"summary": "Ana Sousa is currently a Post-Doc Fellow in the Research Centre in Sports Sciences, Health Sciences and Human Development, CIDESD, Portugal, where she is developing the project untitled: “Exercise in Hypoxia and Nitrate Supplementation in athletes”.\n\nShe is also an Invited Assisted Professor in the University Institute of Maia, ISMAI, Portugal.\n\nHer current research area is exercise physiology; planning, periodisation and training control. She also assists the preparation of some ultra-trail runners.",
+		"images": [
+			"1.2"
+		]
+	},
+	{
+		"id": "joao_beckert",
+		"name": "João Beckert",
+		"summary": "João Miguel Beckert Rodrigues. Has a PHD in Medicine by NOVA Medical School | Faculty of Medical Sciences (NMS | FCM) of the New University of Lisbon, specialist in Sports Medicine and Physical and Rehabilitation Medicine, is Clinical in charge of the Jamor High Performance Center.\n\nHe is active in the area of Clinical Medicine and Exercise Physiology, with emphasis on simulated altitude in normobaria. He develops mathematical modeling of the physiological response to exercise at altitude and at sea level. He collaborates with NMS | FCM as an Invited Assistant Professor in the Physiopathology Chair of the Biomedical Engineering Course of the Faculty of Sciences and Technology of the New University of Lisbon.",
+		"images": [
+			"1.3"
+		]
+	},
+	{
+		"id": "dra_maria_antonia_nerin_rotger",
+		"name": "Dra. María Antonia Nerín Rotger",
+		"summary": "Doctora en Medicinay Cirugía. Especialista en Medicina del Deporte. Master en Medicina de Urgencia en Montaña.\n\nMédico de Urgencias del Hospital de Lannemezan y SMUR 65  (Hautes Pyrénées - France). Médico de expediciones (Kilimanjaro, M. Kenya, Toubkal, Manaslu, Annapurna, Everest, Lhotse, Antártida).\n\nDirectora del Master Oficial de Urgencias en Montaña y Medios Inhóspitos de la Universidad Camilo José Cela.\n\nDirectora de la Asociación de Medicina de Montaña JR Morandeira-CUEMUM. Presidente de la Sociedad Española de Medicina y Auxilio en Montaña (SEMAM).\n\nMiembro del Consejo Asesor Científico de la Federación Española de Deportes de Montaña y Escalada (FEDME). Miembro de la Comisión Médica de la CISA-IKAR (Comisión Internacional de Socorro Alpino).\n\nPremio Augusto Castelló Roca de Medicina de Montaña.",
+		"images": [
+			"1.4"
+		]
+	},
+	{
+		"id": "miguel_nascimento",
+		"name": "Miguel Nascimento",
+		"summary": "Swimmer for Sport Lisboa Benfica and the national team.\n\nMultiple presences in World and European Championships of long and short course.\n\nNational record holder for Junior 50 meters freestyle (long and short course), 100 meters butterfly (long and short course) and absolute record holder foro 400 and 800 meters freestyle (long and short course).",
+		"images": [
+			"1.5"
+		]
+	},
+	{
+		"id": "andre_guimaraes",
+		"name": "André Guimarães",
+		"summary": "Degree in Physical and Sport Education (ISMAI)\n\nPhysical trainer, responsible for Everest CMEP room\n\nFounder / Coach TRIATHLON LINCE ASSOCIATION\n\nFounder of ADECIMAL\n\nCompeting and the search for performance are the drive for evolution as a professional. It is in the accompaniment of the athletes in the different levels of performance, either in the improvement of health, in the start of sports practice or in the search of the supreme challenge, the IRONMAN, that is concerned to give an adequate answer to the physical condition level.",
+		"images": [
+			"1.6"
+		]
+	},
+	{
+		"id": "ricardo_silvestre",
+		"name": "Ricardo Silvestre",
+		"summary": "He has a Bachelor's degree in Exercise Science, Master's in Exercise and Health, and PhD in Exercise Physiology (with focus in "metabolism and exercise endocrinology" obtained at the University of Connecticut in 2006). In 2007 he became Senior Technician in the Portuguese Youth and Sports Institute, Jamor High Performance Center (CAR-Jamor), where he is part of the team of evaluation and control of training of high-performance athletes. Starting from 2014 he as been the Coordinator of the CAR-Jamor Altitude Program, focusing on the control of permanence and exercise at simulated altitude, and development of research projects in the instrumental, methodological and experimental area.",
+		"images": [
+			"1.7"
+		]
+	},
+	{
+		"id": "veronica_rainone",
+		"name": "Veronica Rainone",
+		"summary": "Translating....",
+		"images": [
+			"1.8"
+		]
+	},
+	{
+		"id": "armando_teixeira",
+		"name": "Armando Teixeira",
+		"summary": "Organiser of Estrela Grande Trail, a mountain race event that takes place in Serra da Estrela with various races.\n\nHost of the famous Trail Camps where you can experience all the trail spirit and mountain trails safely with the expertise of some famous trail runners and other workshops available during the different Trail Camps.\n\nStudent of Sports Coaching at Polytechnic Institute of Maia\n\nPartner with the training platform BeAPT",
+		"images": [
+			"1.9"
+		]
+	}
+]

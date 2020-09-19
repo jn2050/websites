@@ -1,0 +1,136 @@
+[
+	{
+		"id": "1.02",
+		"name": "logo",
+		"type": "png",
+		"FHD": {
+			"url": "//cdn.liita.site/cimd/images/fhd_logo.png",
+			"dimensions": {
+				"width": 117,
+				"height": 40,
+				"type": "png"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/cimd/images/hd_logo.png",
+			"dimensions": {
+				"width": 117,
+				"height": 40,
+				"type": "png"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/cimd/images/sd_logo.png",
+			"dimensions": {
+				"width": 117,
+				"height": 40,
+				"type": "png"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/cimd/images/ld_logo.png",
+			"dimensions": {
+				"width": 117,
+				"height": 40,
+				"type": "png"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/cimd/images/thumb_logo.png",
+			"dimensions": {
+				"width": 117,
+				"height": 40,
+				"type": "png"
+			}
+		},
+		"palette": [
+			{
+				"key": "Vibrant",
+				"hex": "#649cf4",
+				"population": 95
+			},
+			{
+				"key": "LightVibrant",
+				"hex": "#689cf4",
+				"population": 0
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#08357b",
+				"population": 0
+			}
+		]
+	},
+	{
+		"id": "1.1",
+		"name": "pintura eletroestatica",
+		"type": "jpeg",
+		"FHD": {
+			"url": "//cdn.liita.site/me_and_you/images/fhd_pintura_eletroestatica.jpeg",
+			"dimensions": {
+				"height": 1080,
+				"width": 1730,
+				"type": "jpg"
+			}
+		},
+		"HD": {
+			"url": "//cdn.liita.site/me_and_you/images/hd_pintura_eletroestatica.jpeg",
+			"dimensions": {
+				"height": 720,
+				"width": 1154,
+				"type": "jpg"
+			}
+		},
+		"SD": {
+			"url": "//cdn.liita.site/me_and_you/images/sd_pintura_eletroestatica.jpeg",
+			"dimensions": {
+				"height": 360,
+				"width": 577,
+				"type": "jpg"
+			}
+		},
+		"LD": {
+			"url": "//cdn.liita.site/me_and_you/images/ld_pintura_eletroestatica.jpeg",
+			"dimensions": {
+				"height": 180,
+				"width": 288,
+				"type": "jpg"
+			}
+		},
+		"thumb": {
+			"url": "//cdn.liita.site/me_and_you/images/thumb_pintura_eletroestatica.jpeg",
+			"dimensions": {
+				"height": 128,
+				"width": 205,
+				"type": "jpg"
+			}
+		},
+		"palette": [
+			{
+				"key": "LightMuted",
+				"hex": "#b2afac",
+				"population": 82
+			},
+			{
+				"key": "DarkMuted",
+				"hex": "#3e4248",
+				"population": 77
+			},
+			{
+				"key": "Muted",
+				"hex": "#7d7e80",
+				"population": 75
+			},
+			{
+				"key": "DarkVibrant",
+				"hex": "#0c1419",
+				"population": 3
+			},
+			{
+				"key": "Vibrant",
+				"hex": "#5289ac",
+				"population": 0
+			}
+		]
+	}
+]

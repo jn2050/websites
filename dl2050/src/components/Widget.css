@@ -1,0 +1,151 @@
+
+.Widget                       { position: relative; display: block; float: left; width: 300px; height: 120px; margin: 2px; padding: 5px 20px; 
+                                background: #FFFFFF; box-shadow: 7px 7px 7px 1px rgba(0, 0, 0, 0.1); margin: 10px; }
+
+.Widget.Number                { width: 120px; height: 100px; padding: 10px 10px; }
+.Widget.Number span           { float: left; font-weight: 100; line-height: 1.0; }
+.Widget.Number .LabelRow      { height: 15px; float: left; margin: 0px 0px; padding: 0px 5px; }
+.Widget.Number .Label         { float: left; text-align: left; }
+.Widget.Number .ValueRow      { float: right; height: calc(100% - 25px); }
+.Widget.Number .Value1        { font-size: 60px; }
+.Widget.Number .Value2        { font-size: 60px; }
+.Widget.Number .Value3        { font-size: 40px; margin-top: 18px; }
+.Widget.Number .Value4        { font-size: 40px; margin-top: 18px; }
+
+.Widget.Pie                   { float: left; width: 200px; height: 182px; padding: 0px; }
+.Widget.Pie .LabelRow         { float: left; width: 100%; height: 30px; }
+.Widget.Pie .LabelRow .Label  { padding: 10px 0px; text-align: center; }
+.Widget.Pie .Chart            { position: relative; float: left; width: 180px; height: 150px; margin: 0px calc(50% - 90px); padding: 0px; }
+
+
+.Widget .Title        { display: block; height: auto; margin: 10px auto;
+                        text-transform: uppercase; text-align: center;  font-size: 11px; color: #333333; }
+
+.Widget .LabelRow     { float: left; width: 100%; height: auto; }
+.Widget .Label        { float: right; width: 100%; height: auto; text-transform: uppercase; text-align: right; 
+                        font-size: 10px; color: var(--FG3); }
+.Widget .DeltaRow     { float: left; width: 100%; }
+.Widget .ValueRow     { float: left; margin: 1px 0px 10px 0px; }
+
+
+.Widget .Prefix,
+.Widget .Sufix        { float: right; width: auto; margin: 5px 5px 0px 0px; line-height: 1.0; font-weight: 200; }
+
+
+.Widget.Large .ValueRow       { float: right; margin: 1px 0px 10px 0px; }
+.Widget.Large .LabelRow       { height: 15px; }
+.Widget.Large .Label          { text-align: right; }
+.Widget.Large .Value          { float: right; width: auto; line-height: 1.0; font-weight: 100; font-size: 32px; text-align: right; }
+
+
+.Widget.BarH                  { float: left; width: 300px; height: 182px; padding: 0px; }
+.Widget.BarH .LabelRow        { float: left; width: 100%; height: 30px; }
+.Widget.BarH .LabelRow .Label { padding: 10px 0px; text-align: center; }
+.Widget.BarH .Chart           { float: left; width: 100%; height: 170px; padding: 10px; }
+
+.Widget.BarH2                 { float: left; width: 300px; height: 100px; padding: 0px; }
+.Widget.BarH2 .LabelRow       { float: left; width: 100%; height: 25px; }
+.Widget.BarH2 .LabelRow .Label{ padding: 10px 0px; text-align: center; }
+.Widget.BarH2 .Chart          { float: left; width: 100%; height: 170px; padding: 10px; }
+
+.Widget.Compact           { width: 140px; height: auto; margin: 10px 20px; padding: 5px 10px; }
+.Widget.List              { width: 300px; height: 100px; }
+
+.Widget.Compact .ValueRow { width: 100%; height: auto; margin: 0px 0px 5px 0px; }
+.Widget.Compact .Label    { font-size: 10px; text-align: right; }
+.Widget.Compact .Value    { font-size: 14px; text-align: right; color: var(--GREEN); }
+.Widget.Compact .Prefix,
+.Widget.Compact .Sufix    { font-size: 11px; color: var(--GREEN);   margin: 2px 3px 0px 0px; }
+
+.Widget.List .LabelRow        { margin-bottom: 5px; }
+.Widget.List .ValueDiv .LabelRow { margin-bottom: 0px; }
+.Widget.List .ValueRow        { width: 25%; height: auto; margin: 0px 0px 5px 0px; }
+.Widget.List .Label           { font-size: 10px; }
+.Widget.List .Value           { float: right; font-size: 18px; font-weight: 400; color: var(--GREEN); }
+.Widget.List .Prefix,
+.Widget.List .Sufix           { font-size: 11px; color: var(--GREEN);   margin: 2px 3px 0px 0px; }
+
+.Widget.Detail                    { height: 120px; }
+.Widget.Detail .LabelRow          { width: 100%; margin-bottom: 0px; }
+.Widget.Detail .ValueRow          { float: right; width: auto; margin-bottom: 0px; text-align: right; }
+.Widget.Detail .Icon              { position: absolute; top: 0px; left: 10px; }
+.Widget.Detail .Value             { float: right; font-size: 20px; }
+.Widget.Detail .ValueRow .Prefix,
+.Widget.Detail .ValueRow .Sufix   { padding: 0px 0px 0px 5px; font-size: 12px; }
+.Widget.Detail .ValueRow .Label   { text-align: right; margin-bottom: 3px; }
+.Widget.Detail .Details           { float: left; width: 100%; }
+.Widget.Detail .Details .ValueRow { float: right; width: 25%; height: auto; margin: 0px; }
+.Widget.Detail .Details .Label    { font-size: 9px; margin: 0px; }
+.Widget.Detail .Details .Value    { float: right; text-align: right; font-size: 14px; }
+.Widget.Detail .Value             { font-size: 18px; font-weight: 400; }
+.Widget.Detail .Details .Prefix,
+.Widget.Detail .Details .Sufix    { margin: 2px 0px 0px 0px; font-size: 8px; }
+.Widget.Detail.Up .Value,
+.Widget.Detail.Up .Prefix,
+.Widget.Detail.Up .Sufix          { color: var(--GREEN); }
+.Widget.Detail.Down .Value,
+.Widget.Detail.Down .Prefix,
+.Widget.Detail.Down .Sufix          { color: var(--RED); }
+
+
+.Widget.Percentage { width: 180px; }
+
+.Widget .DeltaDiv {
+  float: right;
+  width: auto;
+  height: auto;
+  padding: 4px 5px 0px 2px;
+}
+
+.Widget .Icon {
+  float: left;
+  margin: 10px 10px 0px 0px;
+}
+
+.Widget .DeltaRow .Value            { font-size: 20px; padding: 2px 5px 2px 0px; }
+.Widget .DeltaRow .Icon             { float: right; width: 24px; height: 24px; margin: 5px 0px 0px 5px; }
+.Widget .DeltaRow .DeltaPDiv .Value { font-size: 14px; margin: 10px 15px 0px 0px; }
+.Widget .DeltaRow .DeltaPDiv .Icon  { float: right; width: 24px; height: 24px; margin: 9px 0px 0px 0px; }
+.Widget .DeltaRow .Prefix,
+.Widget .DeltaRow .Sufix            { font-size: 12px; padding: 0px 0px 0px 5px; }
+
+.Widget .Up .Value
+.Widget .DeltaRow .Prefix,
+.Widget .DeltaRow .Sufix    { color: var(--GREEN); }
+.Widget .Down               { color: var(--RED); }
+.Widget .DeltaDiv.Up        { background: var(--BG-GREEN); }
+.Widget .Down               { background: var(--BG-RED); }
+
+.Widget .ValueDelta {
+  float: right;
+  margin: 5px 5px 5px 3px;
+  line-height: 1.0;
+  font-weight: 100;
+  font-size: 20px;
+  text-align: right;
+  color: var(--GREEN);
+}
+
+.Widget .DeltaPrefix {
+  float: right;
+  margin: 12px 0px 0px 5px;
+  text-transform: uppercase;
+  line-height: 1.0;
+  font-size: 10px;
+  font-weight: 200;
+  color: var(--GREEN);
+}
+
+.Widget .DeltaP {
+  float: right;
+  margin: 11px 15px 0px 0px;
+  line-height: 1.0;
+  font-weight: 100;
+  font-size: 14px;
+  text-align: right;
+}
+
+.Widget.Alert         { border-radius: 5px; background: var(--RED)!important;  }
+.Widget.Alert .Label  { color: var(--FG1)!important; }
+
+.widget-label-pie { font-size: 20px; text-align: center; fill: var(--FG1); }

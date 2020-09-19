@@ -1,0 +1,20 @@
+{
+	"id": "me_e_you_innovate",
+	"name": "Me & You Innovate",
+	"slogan": "Entre nós e o seu projecto, um Mundo de soluções!",
+	"summary": "This is a description",
+	"description": "This products has **amazing features**",
+	"card": {
+		"title": "Card title",
+		"summary": "Card summary"
+	},
+	"images": [],
+	"backgroundImages": [],
+	"logos": ["1.02"],
+	"socialProfiles": [
+		{
+			"type": "facebook",
+			"url": "https://www.facebook.com/Me-You-Innovate-SA-1766365103612460/"
+		}
+	]
+}

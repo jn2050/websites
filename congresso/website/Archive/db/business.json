@@ -1,0 +1,27 @@
+{
+	"id": "me_e_you_innovate",
+	"name": "Me & You Innovate",
+	"slogan": "Entre nós e o seu projecto, um Mundo de soluções!",
+	"summary": "Acreditamos que o sucesso da nossa empresa assenta na qualidade do trabalho desenvolvido pelos nossos colaboradores, razão pela qual trabalhamos com profissionais altamente qualificados. O nosso capital humano é dotado de uma vasta experiência nas mais diversas áreas abrangidas pelo setor da Metalomecânica.",
+	"description": "This products has **amazing features**",
+	"card": {
+		"subtitle": "Os melhores produtos na área da Metalomecânica, com a mais alta tecnologia"
+	},
+	"images": ["1.1"],
+	"backgroundImages": ["1.1"],
+	"logos": ["1.02"],
+	"contacts": ["telefone", "whatsapp", "fax", "email"],
+	"socialProfiles": [
+		{
+			"type": "facebook",
+			"url": "https://www.facebook.com/Me-You-Innovate-SA-1766365103612460/"
+		},
+		{
+			"type": "instagram",
+			"url": "https://www.facebook.com/Me-You-Innovate-SA-1766365103612460/"
+		}
+	],
+	"openingHours": [
+		"Su-Sa 08:00-20:30"
+	]
+}

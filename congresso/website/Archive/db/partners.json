@@ -1,0 +1,16 @@
+[
+	{
+		"id": "via_verde",
+		"name": "Via Verde",
+		"url": "http://www.viaverde.pt",
+		"images": ["4.1"],
+		"categories": ["parceiros"]
+	},
+	{
+		"id": "evoler_360",
+		"name": "Evolver 360",
+		"url": "http://www.evolver.pt",
+		"images": ["4.1"],
+		"categories": ["parceiros"]
+	}
+]

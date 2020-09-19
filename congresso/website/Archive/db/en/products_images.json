@@ -1,0 +1,75 @@
+[
+	{
+		"id": "2.1",
+		"url": "//cdn.liita.site/1508245945306_225835_6f540ba0a02e89ae24d9a3cd13ad7674.jpeg",
+		"dimensions": {
+			"height": 853, 
+			"width": 1280,
+			"type": "jpg"
+		},
+		"palette": [
+			{ "key": "DarkMuted", "hex": "#5a4a2f", "population": 2137 },
+			{ "key": "Muted", "hex": "#b09b76", "population": 1827 },
+			{ "key": "LightMuted", "hex": "#d6d3b1", "population": 1703 },
+			{ "key": "DarkVibrant", "hex": "#846b0c", "population": 506 },
+			{ "key": "Vibrant", "hex": "#c2a717", "population": 474 },
+			{ "key": "LightVibrant", "hex": "#dec284", "population": 90 }
+		]
+	},
+	{
+		"id": "2.2",
+		"url": "//cdn.liita.site/1508245627156_414468_af4ed97d0d2a265d310d3d763ed855b9.jpeg",
+		"dimensions": {
+			"height": 880,
+			"width": 1280,
+			"type": "jpg"
+		},
+		"palette": [
+			{ "key": "Muted", "hex": "#608aa2", "population": 2830 },
+			{ "key": "LightMuted", "hex": "#c2bd99", "population": 2652 },
+			{ "key": "DarkMuted", "hex": "#2f4948", "population": 2494 },
+			{ "key": "LightVibrant", "hex": "#98c8f1", "population": 729 },
+			{ "key": "DarkVibrant", "hex": "#8f331c", "population": 28 },
+			{ "key": "Vibrant", "hex": "#2490f4", "population": 2 }
+		]
+	},
+	{
+		"id": "2.3",
+		"url":"//cdn.liita.site/1508245704774_292634_7273739c41007e67f4c0fc8fb6a359ca.jpeg",
+		"dimensions":{"height":853,"width":1280,"type":"jpg"},
+		"palette":[
+			{"key":"LightMuted","hex":"#bdccd3","population":2771},
+			{"key":"LightVibrant","hex":"#fcf2eb","population":2407},
+			{"key":"DarkMuted","hex":"#795044","population":1816},
+			{"key":"Muted","hex":"#9c6b51","population":950},
+			{"key":"DarkVibrant","hex":"#651c23","population":76},
+			{"key":"Vibrant","hex":"#bc5c34","population":6}
+		]
+	},
+	{
+		"id": "2.4",
+		"url":"//cdn.liita.site/1508245724402_275499_b867552208fd832d20d23b440a1fd2c8.jpeg",
+		"dimensions":{"height":853,"width":1280,"type":"jpg"},
+		"palette":[
+			{"key":"LightVibrant","hex":"#85d8f6","population":3805},
+			{"key":"Vibrant","hex":"#16a8d3","population":1979},
+			{"key":"DarkMuted","hex":"#212f28","population":965},
+			{"key":"LightMuted","hex":"#b1d1ce","population":67},
+			{"key":"Muted","hex":"#659fa4","population":29},
+			{"key":"DarkVibrant","hex":"#04446c","population":2}
+		]
+	},
+	{
+		"id": "2.5",
+		"url":"//cdn.liita.site/1508246262586_212575_acadf47e4a1d37a765e0f1452ab46934.jpeg",
+		"dimensions":{"height":960,"width":1280,"type":"jpg"},
+		"palette":[
+			{"key":"Muted","hex":"#5f87aa","population":3351},
+			{"key":"LightMuted","hex":"#7e9cbd","population":2915},
+			{"key":"LightVibrant","hex":"#a7c4d8","population":2147},
+			{"key":"DarkVibrant","hex":"#801714","population":1588},
+			{"key":"DarkMuted","hex":"#54312b","population":991},
+			{"key":"Vibrant","hex":"#e53525","population":260}
+		]
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"id": "laser_cut",
+		"name": "Laser cut",
+		"slogan": "A melhor precisão possível de corte",
+		"summary": "A **Me & You Innovate**,  possuí à sua disposição a mais alta tecnologia de **corte laser**.\n\nO **TruMatic 6000** é uma máquina versátil com tecnologia sofisticada de laser e punçonagem. O poderoso laser e a cabeça de punçonagem garantem alta produtividade e excelente qualidade.",
+		"description": "This service is amazing **amazing features**",
+		"images": ["3.01"],
+		"backgroundImages": ["3.01"],
+		"categories": ["corte"],
+		"tags": ["destaque"],
+		"availability": {
+			"startDate": 1507098994983,
+			"endDate": 2507098994983
+		}
+	},
+	{
+		"id": "pintura_eletroestatica",
+		"name": "Pintura Eletroestática",
+		"slogan": "A melhor precisão possível de corte",
+		"summary": "A **Me & You Innovate**,  possuí à sua disposição a mais alta tecnologia de **corte laser**.\n\nO **TruMatic 6000** é uma máquina versátil com tecnologia sofisticada de laser e punçonagem. O poderoso laser e a cabeça de punçonagem garantem alta produtividade e excelente qualidade.",
+		"description": "This service is amazing **amazing features**",
+		"images": ["3.02"],
+		"backgroundImages": ["3.02"],
+		"categories": ["pintura"],
+		"tags": ["destaque"],
+		"availability": {
+			"startDate": 1507098994983,
+			"endDate": 2507098994983
+		}
+	}
+]

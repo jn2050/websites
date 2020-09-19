@@ -1,0 +1,74 @@
+[
+	{
+		"id": "dr_jaime_milheiro",
+		"name": "Dr. Jaime Milheiro",
+		"summary": "Médico especialista em Medicina Física e de Reabilitação e em Medicina Desportiva\n\nDirector Clínico da Clínica Médica do Exercício do Porto\n\nDirector Clínico Adjunto do Comité Olímpico de Portugal\n\nMédico certificado do American Board of Anti-Aging and Regenerative Medicine\n\nMembro da Comissão de Ecologia e Promoção da Saúde da Secção Regional Norte da Ordem Médicos",
+		"images": [
+			"1.1"
+		]
+	},
+	{
+		"id": "ana_sousa",
+		"name": "Ana Sousa",
+		"summary": "Ana Sousa está atualmente a desenvolver o seu Pós-Doutoramento no Centro de Investigação em Ciências do Desporto, Saúde e Desenvolvimento Humano, CIDESD, Portugal, com o projeto intitulado: “Exercício em Hipóxia e Suplementação com Nitrato em atletas”.\n\nÉ também Professora Assistente Convidada no Instituto Universitário da Maia, ISMAI, Portugal. A sua área de investigação é no ambito da fisiologia do exercício; planeamento, periodização e controle de treino. Auxilia também a preparação de alguns corredores ultra-trail.",
+		"images": [
+			"1.2"
+		]
+	},
+	{
+		"id": "joao_beckert",
+		"name": "João Beckert",
+		"summary": "João Miguel Beckert Rodrigues. Doutorado em Medicina pela NOVA Medical School | Faculdade de Ciências Médicas (NMS|FCM) da Universidade Nova de Lisboa, Médico especialista em Medicina Desportiva e em Medicina Fisíca e de Reabilitação, é responsável Clínico do Centro de Alto Rendimento do Jamor (CAR Jamor).\n\nActua na área da Medicina Clínica e na Fisiologia do Exercício, com ênfase na altitude simulada em normobária. Desenvolve trabalhos da modelação matemática da resposta fisiologica ao exercício em altitude e a nível do mar. Colabora com a  NMS|FCM como Professor Auxiliar Convidado na cadeira de Fisiopatologia do Curso de Engenheria Biomédica da Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa.",
+		"images": [
+			"1.3"
+		]
+	},
+	{
+		"id": "dra_maria_antonia_nerin_rotger",
+		"name": "Dra. María Antonia Nerín Rotger",
+		"summary": "Doctora en Medicinay Cirugía. Especialista en Medicina del Deporte. Master en Medicina de Urgencia en Montaña.\n\nMédico de Urgencias del Hospital de Lannemezan y SMUR 65  (Hautes Pyrénées - France). Médico de expediciones (Kilimanjaro, M. Kenya, Toubkal, Manaslu, Annapurna, Everest, Lhotse, Antártida).\n\nDirectora del Master Oficial de Urgencias en Montaña y Medios Inhóspitos de la Universidad Camilo José Cela.\n\nDirectora de la Asociación de Medicina de Montaña JR Morandeira-CUEMUM. Presidente de la Sociedad Española de Medicina y Auxilio en Montaña (SEMAM).\n\nMiembro del Consejo Asesor Científico de la Federación Española de Deportes de Montaña y Escalada (FEDME). Miembro de la Comisión Médica de la CISA-IKAR (Comisión Internacional de Socorro Alpino).\n\nPremio Augusto Castelló Roca de Medicina de Montaña.",
+		"images": [
+			"1.4"
+		]
+	},
+	{
+		"id": "miguel_nascimento",
+		"name": "Miguel Nascimento",
+		"summary": "Nadador do Sport Lisboa Benfica, faço parte da seleção Nacional.\n\nJá participei nos Europeus e Mundiais de piscina Longa e curta.\n\nRecordista nacional de Júnior de 50 livres (piscina de 25m) e 50 livres e 100 mariposa (piscina de 50m)\n\nRecordista nacional absoluto aos 400 e 800 livres (piscina 25m)",
+		"images": [
+			"1.5"
+		]
+	},
+	{
+		"id": "andre_guimaraes",
+		"name": "André Guimarães",
+		"summary": "Licenciado em Educação Física e Desporto (ISMAI)\nPreparador físico, responsável pela sala Everest CMEP\nFundador/Treinador ASSOCIAÇÃO LINCE TRIATHLON\nFundador da ADECIMAL\n\nO desporto de competição e a busca pela performance são a motivação contínua pela evolução enquanto profissional. É no acompanhamento dos atletas nos diferentes níveis de rendimento, seja na melhoria da saúde, na iniciação ao exercício ou na procura do desafio supremo do IRONMAN, que se preocupa em dar uma resposta adequada ao nível condição física.",
+		"images": [
+			"1.6"
+		]
+	},
+	{
+		"id": "ricardo_silvestre",
+		"name": "Ricardo Silvestre",
+		"summary": "Licenciado em Ciências do Exercício, com Mestrado em Exercício e Saúde e Doutoramento em Fisiologia do Exercício (com área de concentração em “metabolismo e endocrinologia do exercício” e obtido na Universidade de Connecticut em 2006), é desde 2007 técnico superior no Instituto Português da Juventude e Desporto, Centro de Alto Rendimento do Jamor (CAR-Jamor), onde faz parte da equipa de avaliação e controlo de treino em atletas de alto rendimento. Desde 2014 que é o Coordenador do Programa Altitude do CAR-Jamor, com enfase no controlo de permanências e de exercício realizado em altitude simulada, e desenvolvimento de projetos de investigação na área instrumental, metodológica e experimental.",
+		"images": [
+			"1.7"
+		]
+	},
+	{
+		"id": "veronica_rainone",
+		"name": "Veronica Rainone",
+		"summary": "Translating....",
+		"images": [
+			"1.8"
+		]
+	},
+	{
+		"id": "armando_teixeira",
+		"name": "Armando Teixeira",
+		"summary": "Organizador do Estrela Grande Trail, um evento de corrida de montanha que decorre na Serra da Estrela com várias provas.\n\nAnfitrião dos famosos Trail Camps, um evento para experimentar o espírito do trail. Com a participação de atletas de trail experientes e vários workshops para divulgação da modalidade.\n\nEstudante de Treinador Desportivo no Instituto Politécnico da Maia\n\nParceria com a plataforma de treino BeAPT",
+		"images": [
+			"1.9"
+		]
+	}
+]

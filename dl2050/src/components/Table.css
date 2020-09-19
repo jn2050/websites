@@ -1,0 +1,66 @@
+
+.Table                  { position: relative; float: left; width: 600px; height: 400px; margin: 20px 20px; padding: 20px;
+                          border-radius: 10px; background: #FFFFFF; overflow-x: hidden; }
+.Table .PadTop,
+.Table .PadBottom       { position: relative; float:left; width: 100%; height: 30px; background: #F7F7F7; }
+.Table .PadLeft         { position: relative; float:left; width: 30px; height: calc(100% - 120px); background: #F7F7F7; }
+.Table .PadRight        { position: relative; float:right; width: 30px; height: calc(100% - 120px); background: #F7F7F7; }
+.TBar                   { position: relative; float:left; width: 100%; height: 60px; margin: 0px auto; }
+.Table .TBar .Button    { float: left; }
+.TScroll                { float: left; width: calc(100% - 60px); height: calc(100% - 120px); margin: 0px; overflow-x: auto; }
+.TPage                  { width: 100%; height: 100%; padding: 100px 20px 20px 100px; }
+.TTable                 { position: relative; width: 100%; height: 100%; margin: 0px 0px; }
+.THeader                { float: left; width: 100%; user-select: none; }
+.TBody                  { position: relative; float: left; width: 100%; height: calc(100% - 70px); overflow-y: auto; }
+.TFooter                { float: left; width: 100%;   }
+.TRow                   { position: relative; width:100%; height: auto;  min-height: 30px; padding: 0px 10px; 
+                          display: flex; align-items: center; border-bottom: 1px solid #EEEEEE; color: #333333;
+                          overflow: hidden; }
+.THeader .TRow,
+.TFooter .TRow          { height: 35px; padding: 8px 10px; background: #EEEEEE; border-bottom: 0px solid #BBBBBB; }
+.TDetail .TRow          { border-bottom: 0px; }
+.THeader .TData         { font-size: 11px; text-transform: uppercase; }
+
+/* .TBody .TRow:nth-child(odd)    { background: #FFFFFF; border-bottom: 1px solid #CCCCCC; }
+.TBody .TRow:nth-child(even)   { background: #EEEEEE; border-bottom: 1px solid #CCCCCC; } */
+
+.TData                  { display: flex; height: 100%; padding: 2px 4px; font-size: 14px;
+                          cursor: pointer; overflow: hidden; }
+.TData span             { height: 100%; user-select: text; white-space:nowrap; }
+
+.TData.L                    { justify-content: flex-start; text-align: left; }
+.TData.C                    { justify-content: center; text-align: center; }
+.TData.R                    { justify-content: flex-end; text-align: right; }
+
+.Table .highlight           { background: var(ORANGE); }
+
+.Table .Filter                  { float: left; width: 100%; height: 60px; border-bottom: 1px solid #BBBBBB; }
+.Table  input                   { width: 100%; }
+.Table .Icon.empty-table        { margin: calc(30% - 64px) auto; }
+
+.Table .TRow .Icon.plus         { position: absolute;  top: 5px; left: 0px; }
+
+.TBody .TRow:hover              { color: var(--BLUE);  }
+.TBody .TRow.Selected           { background: var(--BLUE); }
+.TBody .TRow.Selected:hover     { color: #333333; }
+.Table .TRow .Ctrls             { position: relative; float: left; width: 30px; height: 20px; }
+/* .TBody .TRow .Icon.edit         { position: absolute;  top: 5px; left: 0px; fill: #777777; visibility: hidden; } */
+.TBody .TRow .Icon.mdetail      { position: absolute;  top: 5px; left: 20px; fill: #777777; visibility: hidden; }
+.TBody .TRow .Icon.record       { position: absolute;  top: 5px; left: 40px; fill: #777777; visibility: hidden; }
+.TBody .TRow:hover .Icon        { visibility: visible; }
+
+.TDetail                        { position: relative; float: left; width: 100%; height: 200px; background:#FFFFFA;
+                                  border-top: 0px solid var(--BLUE); border-bottom: 3px solid var(--BLUE); }
+.TDetail .Panel                 { display: block; float: left; width: 100px; height: 100%; }
+.TDetail .Panel .Icon.up        { position: absolute;  top: 10px; left: 40px; }
+.TDetail .Table                 { margin: 0px; padding: 0px; width: calc(100% - 200px)!important; height: 100%!important; }
+.TDetail .TScroll               { height: calc(100% - 0px); }
+.TDetail .TBody                 { position: relative; float: left; width: 100%; height: calc(100% - 50px); overflow-y: auto; }
+.TDetail .THeader .TRow         { height: 30px; padding: 5px 10px 0px 10px; background: transparent; font-weight: 700; }
+.TDetail .TFooter .TRow         { height: 30px; padding: 0px 10px 5px 10px; background: transparent; font-weight: 700 }
+.TDetail .THeader .TData        { font-size: 10px; text-transform: uppercase; }
+.TDetail .THeader .TData span   { font-weight: 700; }
+.TDetail .TRow                  { height: 26px!important; min-height: 20px; }
+.TDetail .TData                 { font-weight: 700; }
+
+.Table .Icon.up path                   { fill: #333333; }
