@@ -1,5 +1,6 @@
 {
     "domain": "anarp.org.pt",
+    "logo": "LOGO-anarp.png",
     "header": {
       "menu": [
         { "text": "ANARP", "path": "/"},
@@ -79,9 +80,9 @@
                 "type": "Documents",
                 "title": "CINA",
                 "items": [
-                    {"text": "Regulamento Creche", "url": "Regulamento_Creche_2018.pdf"},
-                    {"text": "Regulamento Pré-Escolar", "url": "Regulamento_Pré-escolar_2018.pdf"},
-                    {"text": "Regulamento CATL", "url": "Regulamento_CATL _2018.pdf"}
+                    {"text": "Regulamento Creche", "url": "Regulamento_Creche.pdf"},
+                    {"text": "Regulamento Pré-Escolar", "url": "Regulamento_Pré_Escolar.pdf"},
+                    {"text": "Regulamento CATL", "url": "Regulamento_CATL.pd"}
                 ]
             },
             {
@@ -96,6 +97,14 @@
                     {"text": "DL", "url": "DL_6.pdf"},
                     {"text": "DL", "url": "DL_7.pdf"},
                     {"text": "DL", "url": ""}
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "Plano 2020",
+                "items": [
+                    {"text": "Plano de Ação e Orçamento", "url": "2020_Plano.pdf"},
+                    {"text": "Ata AG Plano de Ação e Orçamento", "url": "2020_Ata_Plano.pdf"}
                 ]
             },
             {
@@ -126,7 +135,7 @@
                 "type": "Documents",
                 "title": "Plano e Contas 2017",
                 "items": [
-                    {"text": "Plano de Ação e Orçamento", "url": "2007_Plano.pdf"},
+                    {"text": "Plano de Ação e Orçamento", "url": "2017_Plano.pdf"},
                     {"text": "Ata AG Plano de Ação e Orçamento", "url": "2017_Ata_Plano.pdf"},
                     {"text": "Relatório e Contas", "url": "2017_RC.pdf"},
                     {"text": "Anexo Demostrações Financeiras", "url": "2017_Anexo.pdf"},
@@ -164,7 +173,100 @@
     },
     {
         "path": "/forum",
-        "title": "Fórum"
+        "title": "Fórum",
+        "slides": [
+            {
+                "type": "Hero",
+                "backgroundImg": "forum-intro.jpeg",
+                "variant": "V2",
+                "img": "",
+                "title": "Fórum Sócio-Ocupacional"
+            },
+            {
+                "type": "About",
+                "background": "#FFFFFF",
+                "title": "Quem Somos",
+                "textlines": [
+                    "O Fórum Sócio-Ocupacional tem como missão apoiar a pessoa com experiência de doença mental a ultrapassar as limitações causadas pela sua doença, de forma a atingir um elevado nível de funcionalidade e a sua efetiva inclusão social.",
+                    "Desta forma, todos os serviços são orientados pelos valores e princípios mais atuais da Reabilitação Psicossocial, de acordo com autores e entidades internacionais de referência: opção de escolha, envolvimento ativo do indivíduo e das pessoas significativas no processo de recovery, crença no potencial de recuperação e personalização do processo de acordo com as necessidades, interesses e objetivos da pessoa.",
+                    "O Fórum Sócio-Ocupacional procura, ainda, ter um papel ativo no aumento da literacia na saúde mental e no combate ao estigma.",
+                    "Horário de funcionamento: 2ª a 6ª feira, entre as 09h e as 17:30h"
+                ]
+            },
+            {
+                "type": "About",
+                "background": "#FFFFFF",
+                "title": "O QUE FAZEMOS",
+                "cards": [
+                    {
+                        "type": "Text",
+                        "title": "Acompanhamento Terapêutico",
+                        "textlines": [
+                            "O Fórum Sócio-Ocupacional Nova Aurora presta serviços personalizados e integrados que permitem responder às necessidades específicas de cada pessoa, mediante uma avaliação biopsicossocial.",
+                            "Os serviços são disponibilizados em formato individual e em grupo e baseiam-se na evidência clínica e científica mais recente.",
+                            "Estes serviços são disponibilizados por uma equipa de técnicos especializados e com vasta formação na área da reabilitação psicossocial, incluindo psicólogos, assistente social e terapeuta ocupacional.",
+                            "O acompanhamento individual é prestado por um técnico de referência, responsável pela gestão e organização do processo e articulação com todas as partes envolvidas (utente, familiares/cuidadores, outros profissionais de saúde, profissionais da área social, entre outros).",
+                            "Este acompanhamento terapêutico é sustentado num plano individual de reabilitação que promove o desenvolvimento de várias competências e a estreita articulação e coordenação de vários recursos comunitários.",
+                            "As atividades de grupo consistem num conjunto de programas que, de forma flexível, personalizada, progressiva e participada, permite o desenvolvimento de competências de base e/ou mais específicas, no sentido de potenciar as oportunidades de participação e inserção social dos utentes.",
+                            "São estimuladas capacidades neurocognitivas e de cognição social, de autoconhecimento e gestão da doença, de desenvolvimento de atividades de vida diária e de promoção do empowerment e autodeterminação. Procura-se, também, a promoção de estilos de vida saudáveis, através da disponibilização de atividades desportivas e artísticas."
+                        ]
+                    },
+                    {
+                        "type": "Text",
+                        "title": "Apoio Familiar",
+                        "textlines": [
+                            "Este serviço é disponibilizado a famílias, individualmente ou em grupo.",
+                            "O apoio individual pretende dotar a família de um conjunto de competências que lhe permitam responder a necessidades específicas da sua dinâmica familiar, facilitando o equilíbrio familiar e a resolução de problemas no seio da família.",
+                            "O grupo psicoeducativo multifamiliar, com periodicidade mensal, pretende ser um espaço de partilha de conhecimentos e experiências entre cuidadores informais de pessoas com experiência de doença mental, no sentido de aliviar a sobrecarga emocional e potenciar a aprendizagem.",
+                            "Para alcançar estes objetivos, procura-se desenvolver a relação entre as famílias e ajustar o funcionamento do grupo, em cada momento, às suas necessidades e possibilidades, no sentido de se criarem mecanismos de suporte mútuo, oportunidades para aumentar o conhecimento sobre a doença e tudo que com ela direta ou indiretamente está relacionado e de desenvolver competências de gestão, nomeadamente de comunicação, resolução de problemas, intervenção na crise, entre outras."
+                        ]
+                    },
+                    {
+                        "type": "Text",
+                        "title": "Qualificação e Emprego",
+                        "textlines": [
+                            "Este serviço pretende um acompanhamento sólido de cada indivíduo com experiência de doença mental durante toda a integração profissional.",
+                            "Trata-se de uma intervenção que pretende apoiar na escolha, procura e integração em emprego ou formação e potenciar as capacidades dos utentes, centradas na resolução de questões e/ou dificuldades resultantes do processo educativo e de (re)integração no mercado de trabalho.",
+                            "Pretende-se o desenvolvimento de competências e de uma rede de suporte suficientemente sólida, para que seja capaz de potenciar uma resposta integradora e sustentada.",
+                            "Este trabalho é desenvolvido individualmente, em acompanhamento de periodicidade variável, mediante as necessidades de definição de projeto e desenvolvimento de estratégias de intervenção e em grupo, através da dinamização de atividades de discussão do projeto, dificuldades e desafios do processo de integração.",
+                            "Para o sucesso deste trabalho é fundamental uma articulação constante com as diversas entidades envolvidas, assim como de outras respostas comunitárias, complementares a todo o processo."
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "About",
+                "background": "#FFFFFF",
+                "title": "Projectos",
+                "text": "A criação de projetos que visem a integração dos indivíduos acompanhados no Fórum Sócio-Ocupacional tem como objetivo a conquista de autonomia, a recuperação de dignidade social, a criação de laços sociais, o aumento do leque de experiências culturais vivenciadas, a criação de rotinas organizadas em torno de momentos positivos de socialização e aprendizagem e o aumento de qualificações escolares e/ou profissionais.",
+                "cards": [
+                    {
+                        "type": "Box",
+                        "title": "INR",
+                        "img": "",
+                        "text": ""
+                    },
+                    {
+                        "type": "Box",
+                        "title": "Creative Connections",
+                        "img": "",
+                        "text": ""
+                    },
+                    {
+                        "type": "Box",
+                        "title": "INforma – Saúde Mental em Realidade Virtual",
+                        "img": "",
+                        "text": ""
+                    },
+                    {
+                        "type": "Box",
+                        "title": "Colónia Nova Aurora",
+                        "img": "",
+                        "text": ""
+                    }
+                ]
+            }
+        ]
     },
     {
         "path": "/cina",
