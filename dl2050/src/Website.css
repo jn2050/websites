@@ -1,6 +1,0 @@
-
-.Website .Section { padding: 30px 0px; }
-
-.Website>.Section:nth-child(odd) {background-color:#EEEEEE; }
-.Website>.Section:nth-child(even) {background-color:#FFFFFF; }
-.Website>.Section:nth-child(1) {background-color:#FFFFFF; }

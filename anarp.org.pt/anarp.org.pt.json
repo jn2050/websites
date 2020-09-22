@@ -1,0 +1,202 @@
+{
+    "domain": "anarp.org.pt",
+    "header": {
+      "menu": [
+        { "text": "ANARP", "path": "/"},
+        { "text": "Fórum", "path": "/forum"},
+        { "text": "CINA", "path": "/cina"}
+      ]
+    },
+    "webpages": [
+    {
+        "path": "/",
+        "title": "ANARP",
+        "background": "#FFFFFF",
+        "slides": [
+        {
+            "type": "Hero",
+            "backgroundImg": "anarp-intro.jpeg",
+            "variant": "V1",
+            "img": "",
+            "title": "ANARP - Associação Nova Aurora na Reabilitação e Reintegração Psicossocial"
+        },
+        {
+            "type": "About",
+            "background": "#FFFFFF",
+            "title": "Quem Somos",
+            "textlines": [
+                "A Associação Nova Aurora na Reabilitação e Reintegração Psicossocial - ANARP é uma Instituição Particular de Solidariedade Social, sem fins lucrativos, reconhecida como Pessoa Coletiva de Utilidade Pública.",
+                "Resultante de um movimento iniciado em 1994 por familiares e amigos de pessoas com doença mental, a ANARP tem procurado contribuir para uma sociedade mais digna, inclusiva, aberta e contemporânea. Para a prossecução destes objetivos, a ANARP criou o Fórum Sócio-Ocupacional, no qual disponibiliza um conjunto de serviços assentes no pressuposto que as pessoas com experiência de doença mental grave devem ter acesso a um estilo de vida saudável e satisfatório, com oportunidades, objetivos e aspirações idênticas a qualquer outro cidadão.",
+                "A nossa missão emerge naturalmente das necessidades de todas as pessoas com doença mental, bem como de todos aqueles que com elas interagem, desde profissionais a familiares, de contribuir para promover a sua qualidade de vida e efetiva inserção social.",
+                "A ANARP assumiu também o encargo de gerir um Centro Infantil, que integra as valências de creche, jardim de infância e centro de atividades de tempos livres, através do qual pretende também promover o apoio social a crianças e jovens carenciados no sentido de garantir o seu desenvolvimento e bem-estar."
+            ]
+        },
+        {
+            "type": "Menu",
+            "background": "#DFE8E8",
+            "title": "Unidades ANARP",
+            "cards": [
+                {"type": "Menu", "title": "Fórum Sócio-Ocupacional", "img": "forum-intro.jpeg", "url": "/forum"},
+                {"type": "Menu", "title": "Centro Infantil", "img": "cina-intro.jpeg", "url": "/cina"}
+            ]
+        },
+        {
+            "type": "Feature",
+            "background": "#FFFFFF",
+            "title": "Como Ajudar",
+            "textlines": [
+                "Tornando-se Associado",
+                "Através de doação de parte do IRS: NIF 503 631 507",
+                "Através do IBAN: PT50 0033 0000 45299382375 05"
+            ]
+        },
+        {
+            "type": "Feature",
+            "background": "#EEEEEE",
+            "title": "Documentos",
+            "cards": [
+            {
+                "type": "Documents",
+                "title": "Insititucionais",
+                "items": [
+                    {"text": "Orgãos Sociais", "url": "ANARP_Orgão_Sociais.pdf"},
+                    {"text": "Estatutos da ANARP", "url": "ANARP_Estatutos.pdf"},
+                    {"text": "Ata Eleitoral", "url": "ANARP_Ata_Eleitoral.pdf"},
+                    {"text": "Ata Tomada de Posse", "url": "ANARP_Ata_Posse.pdf"},
+                    {"text": "Registo no Diário da Républica", "url": "ANARP_Registo_DR.pdf"}
+                    
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "Fórum",
+                "items": [
+                    {"text": "Regulamento Fórum", "url": "Regulamento_Forum.pdf"},
+                    {"text": "Registo ONGPD do Fórum.pdf", "url": "Forum_Registo_ONGPD.pdf"}
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "CINA",
+                "items": [
+                    {"text": "Regulamento Creche", "url": "Regulamento_Creche_2018.pdf"},
+                    {"text": "Regulamento Pré-Escolar", "url": "Regulamento_Pré-escolar_2018.pdf"},
+                    {"text": "Regulamento CATL", "url": "Regulamento_CATL _2018.pdf"}
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "Legislação",
+                "items": [
+                    {"text": "DL", "url": "DL_1.pdf"},
+                    {"text": "DL", "url": "DL_2.pdf"},
+                    {"text": "DL", "url": "DL_3.pdf"},
+                    {"text": "DL", "url": "DL_4.pdf"},
+                    {"text": "DL", "url": "DL_5.pdf"},
+                    {"text": "DL", "url": "DL_6.pdf"},
+                    {"text": "DL", "url": "DL_7.pdf"},
+                    {"text": "DL", "url": ""}
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "Plano e Contas 2019",
+                "items": [
+                    {"text": "Plano de Ação e Orçamento", "url": "2019_Plano.pdf"},
+                    {"text": "Ata AG Plano de Ação e Orçamento", "url": "2019_Ata_Plano.pdf"},
+                    {"text": "Relatório e Contas", "url": "2019_RC.pdf"},
+                    {"text": "Anexo Demostrações Financeiras", "url": "2019_Anexo.pdf"},
+                    {"text": "Relatório de Parecer do Conselho Fiscal", "url": "2019_CF.pdf"},
+                    {"text": "Ata AG Relatório e Contas", "url": "2019_Ata_RC.pdf"}
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "Plano e Contas 2018",
+                "items": [
+                    {"text": "Plano de Ação e Orçamento", "url": "2018_Plano.pdf"},
+                    {"text": "Ata AG Plano de Ação e Orçamento", "url": "2018_Ata_Plano.pdf"},
+                    {"text": "Relatório e Contas", "url": "2018_RC.pdf"},
+                    {"text": "Anexo Demostrações Financeiras", "url": "2018_Anexo.pdf"},
+                    {"text": "Relatório de Parecer do Conselho Fiscal", "url": "2018_CF.pdf"},
+                    {"text": "Ata AG Relatório e Contas", "url": "2018_Ata_RC.pdf"}
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "Plano e Contas 2017",
+                "items": [
+                    {"text": "Plano de Ação e Orçamento", "url": "2007_Plano.pdf"},
+                    {"text": "Ata AG Plano de Ação e Orçamento", "url": "2017_Ata_Plano.pdf"},
+                    {"text": "Relatório e Contas", "url": "2017_RC.pdf"},
+                    {"text": "Anexo Demostrações Financeiras", "url": "2017_Anexo.pdf"},
+                    {"text": "Relatório de Parecer do Conselho Fiscal", "url": "2017_CF.pdf"},
+                    {"text": "Ata AG Relatório e Contas", "url": "2017_Ata_RC.pdf"}
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "Plano e Contas 2016",
+                "items": [
+                    {"text": "Plano de Ação e Orçamento", "url": "2016_Plano.pdf"},
+                    {"text": "Ata AG Plano de Ação e Orçamento", "url": "2016_Ata_Plano.pdf"},
+                    {"text": "Relatório e Contas", "url": "2016_RC.pdf"},
+                    {"text": "Anexo Demostrações Financeiras", "url": "2016_Anexo.pdf"},
+                    {"text": "Relatório de Parecer do Conselho Fiscal", "url": "2016_CF.pdf"},
+                    {"text": "Ata AG Relatório e Contas", "url": "2016_Ata_RC.pdf"}
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "Plano e Contas 2015",
+                "items": [
+                    {"text": "Plano de Ação e Orçamento", "url": "2015_Plano.pdf"},
+                    {"text": "Ata AG Plano de Ação e Orçamento", "url": "2015_Ata_Plano.pdf"},
+                    {"text": "Relatório e Contas", "url": "2015_RC.pdf"},
+                    {"text": "Anexo Demostrações Financeiras", "url": "2015_Anexo.pdf"},
+                    {"text": "Relatório de Parecer do Conselho Fiscal", "url": "2015_CF.pdf"},
+                    {"text": "Ata AG Relatório e Contas", "url": "2015_Ata_RC.pdf"}
+                ]
+            }
+            ]
+        }
+        ]
+    },
+    {
+        "path": "/forum",
+        "title": "Fórum"
+    },
+    {
+        "path": "/cina",
+        "title": "CINA"
+    }
+    ],
+    "footer": {
+        "name": "ANARP",
+        "name2": "Associação Nova Aurora na Reabilitação e Reintegração Psicossocial",
+        "contacts": [
+            {
+                "name": "Sede",
+                "address": "Rua Coronel Almeida Valente, 280/282, 4200-030 Porto, Portugal",
+                "phone": "225 504 394",
+                "email": "ass.anarp1@gmail.com"
+            },
+            {
+                "name": "Fórum Sócio-Ocupacional",
+                "address": "Rua Coronel Almeida Valente, 280/282, 4200-030 Porto, Portugal",
+                "phone": "225 504 394",
+                "email": "equipacr.anarp@gmail.com"
+            },
+            {
+                "name": "CINA - Centro Infantil Nova Aurora",
+                "address": "Rua Professor Agostinho da Silva, 34, 4250-017 Porto, Portugal",
+                "phone": "228 325 741",
+                "email": "ass.cina@gmail.com"
+            }
+        ],
+        "follow" : [
+            {"name": "Fórum", "url": "https://www.facebook.com/Centro-de-Reabilita%C3%A7%C3%A3o-Nova-Aurora-156181847813417/"},
+            {"name": "CINA", "url": "https://www.facebook.com/Centro-Infantil-Nova-Aurora-187660734726599/?ref=hl"}
+        ]
+    }
+}

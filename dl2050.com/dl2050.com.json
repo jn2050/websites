@@ -1,0 +1,129 @@
+{ "header": {
+    "menu": [
+      { "text": "Page 1", "path": "page1"},
+      { "text": "Page 2", "path": "page2"},
+      { "text": "Page 3", "path": "page3"}
+    ]
+  },
+  "webpages": [
+  {
+    "path": "page1",
+    "title": "Main",
+    "background": "#FFFFFF",
+    "header": {
+      "background": "#8f9799"
+    },
+    "slides": [
+      {
+        "type": "Hero",
+        "backgroundImg": "background-orange-1.jpg",
+        "variant": "V2",
+        "img": "cube.jpg",
+        "title": "Creating software businesses"
+      },
+      {
+        "type": "About",
+        "background": "#FFFFFF",
+        "title": "About Us",
+        "textlines":
+        [
+          "Digital Logic specializes in creating software businesses. We start from an idea that solves a market problem, assemble a team, develop the product leveranging our own technology and launch to the market as a new spin-off company.",
+          "We are specialist in software development and are currently focused on Deep Neural Networks, Aplications as a Service, Business Inteligence and Internet of the Things."
+        ]
+      },
+      {
+        "type": "Portfolio",
+        "background": "#DFE8E8",
+        "title": "Spin-offs",
+        "cards": [
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "text" : "Cloudware is a Cloud based accounting software for small businesses and accountants. Software as a Service (SaaS) with Billing, Purchases, Inventory, Accounting and Salaries.  Market leader in Portugal with over 70.000 active customers."
+          },
+          {
+            "type": "VBox",
+            "img": "petapilot-logo.png",
+            "text": "Fintech company for automatic fiscal fraud detection. Large scale analytics, fully simplifies and automates the audit process for Governments, Corporations and SME. Three European Tax Authorities and over 10.000 companies as customers."
+          },
+          {
+            "type": "VBox",
+            "img": "nanopower-logo.png",
+            "text": "Patent pending sub-threshold microchip architecture. The technology is able to reduce the power consumption in idle mode of any other microchip by several orders of magnitude, increasing 10 fold the batery lifetime of IoT systems."
+          },
+          {
+            "type": "VBox",
+            "img": "ymedia-logo.png",
+            "text": "..."
+          }
+        ]
+      },
+      {
+        "type": "Portfolio",
+        "title": "Projects under development",
+        "background": "#EEEEEE",
+        "cards": [
+          {
+            "type": "VBox",
+            "title" : "Churn Analysis",
+            "text" : "Cloud based accounting software for small businesses and accountants. Software as a Service (SaaS) with Billing, Purchases, Inventory, Accounting and Salaries.  Market leader in Portugal with over 70.000 active customers."
+          },
+          {
+            "type": "VBox",
+            "title" : "EEG Classification",
+            "text": "Fintech company for automatic fiscal fraud detection. Large scale analytics, fully simplifies and automates the audit process for Governments, Corporations and SME. Three European Tax Authorities and over 10.000 companies as customers."
+          },
+          {
+            "type": "VBox",
+            "title" : "EKG Classification",
+            "text": "Leading price comparison in Portugal. B2C website with prices for over 1 million products. The company lauched its own marketplace in 2018."
+          },
+          {
+            "type": "VBox",
+            "title" : "Document extraction",
+            "text": "Patent pending sub-threshold microchip architecture. The technology is able to reduce the power consumption in idle mode of any other microchip by several orders of magnitude, increasing 10 fold the batery lifetime of IoT systems."
+          }
+        ]
+      },
+      {
+        "type": "Portfolio",
+        "background": "#DFE8E8",
+        "title": "Investments",
+        "cards": [
+          {
+            "type": "VBox",
+            "img": "kuantokusta-logo.png",
+            "text": "Leading price comparison in Portugal. B2C website with prices for over 1 million products. The company lauched its own marketplace in 2018."
+          },
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "Mail Track",
+            "text": "..."
+          },
+          {
+            "type": "VBox",
+            "img": "cloudware-logo.png",
+            "title" : "NN",
+            "text": "..."
+          },
+          {
+            "type": "VBox",
+            "img": "nanopower-logo.png",
+            "title" : "NN",
+            "text": "..."
+          },
+          {
+            "type": "VBox",
+            "img": "nanopower-logo.png",
+            "title" : "NN",
+            "text": "..."
+          }
+        ]
+      }
+   ],
+   "footer": {
+      "address": "Centro Empresarial Lionesa, Pavilhão C27, Rua da Lionesa, 4465-671 Leça do Balio, Porto, Portugal"
+    }
+  }
+]}

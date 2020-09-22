@@ -1,6 +1,0 @@
-.Selector                   { position: relative; display: block; float: left; width: 100%; height: 30px; margin: 0px auto; user-select: none; }
-.Selector .Container        { position: relative; display: block; float: none; width: 120px; height: 30px; margin: 0px auto;  }
-.Selector .IconContainer    { display: block; float: left; height: 100%; width: 30px; padding: 0px 10px; }
-.Selector .TextContainer    { display: block; float: left; height: 100%; width: 60px; padding-top: 3px; text-align: center; }
-.Selector span              { display: inline-block; margin: 0px 2px; color: #555555; font-size: 12px; }
-.Selector .Icon             { display: block; margin: 10px auto; }

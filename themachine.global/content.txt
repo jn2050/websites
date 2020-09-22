@@ -1,0 +1,68 @@
+
+
+
+<h1>Applied Machine Learning</h1>
+<h2>Solving complex problems with Deep Neural Networks</h2>
+
+
+<div className="Section Section2">
+  <div className="Content">
+    <h1><div className="Rectangle"/><span>Modern Deep Learning</span></h1>
+    <h2>Welcome to the Machine is a software company specialized in applying Machine Learning to business needs.</h2>
+    <h2>Machine learning is an old concept with very recent developments. With a class of algorithms based on Deep Neural Networks this technology improved exponentially and achieved results that are better than human experts in many fields since 2015.</h2>
+    <h2>We have been developing software tools based on this new technology and successfully solving complex business problems across industries:</h2>
+    <div className="Row">
+      {CARDS.map(e=>Card(e))}
+    </div>
+  </div>
+</div>
+
+const CARDS = [
+  {title: 'Insurance', img: 'ic_insurance.svg', text: 'Predict accident probability, improve risk models, churn analysis and fraud detection.'},
+  {title: 'Finance', img: 'ic_finance.svg', text: 'Predict loan payment probability, reduce defaults.'},
+  {title: 'Telecom', img: 'ic_content.svg', text: 'Automatic video scene classification through computer vision for Advertisement placement.'},
+  {title: 'Accounting software', img: 'ic_business.svg', text: 'Automatic bills classification from document’s photos.'},
+  {title: 'Healthcare', img: 'ic_healthcare.svg', text: 'Automating anesthesia by detecting patient loss of consciousness from EEG.'},
+  {title: 'Retail', img: 'ic_industry.svg', text: 'Sales forecast per product, store, day and price modeling.'},
+]
+
+
+<div className="Section Section3">
+  <img src={u('video1.png')}/>
+  <div className="Content">
+    <h1>Leverage your own data</h1>
+    <h2>Training a model with corporate data can automate processes and execute tasks that only experts can perform. And the machine will do it better and several orders of magnitude faster with unlimited gains in efficiency.</h2>
+    <p>Contact us -></p>
+  </div>
+</div>
+
+
+<div className="Section Section4">
+  <div className="Content">
+    <h1>How it works</h1>
+    <h2>Machine Learning development is based on creating and training Models that are able to make predictions of new data (ex: sales in the future).
+A Model is a mathematical function that transforms the input (known data such as a medical image) into a prediction (has or has not cancer). 
+For modern projects the Model is too complex to be defined or programmed by humans, so it is developed by the machine itself through training.
+Training consists on showing the model historical input data and the corresponding known results and make it learn through specific technics.
+Done properly the Model learns from data and generalizes, and is able to make accurate predictions on new data never seen before.
+</h2>
+  </div>
+</div>
+
+
+<h1>Case studies</h1>
+<h1>Our approach</h1>
+
+
+const Footer = () => {
+  return (
+    <header className="Footer">
+      <div className="Logo"><img src={logo} className="Logo" alt="logo" /></div>
+      <div className="Address">
+        <p>Beddingen 24, 0250 Oslo</p>
+        <p>info@themachine.global</p>
+        <p>+47 909 78 606</p>
+      </div>
+    </header>
+  )
+}
