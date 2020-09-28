@@ -5,7 +5,8 @@
       "menu": [
         { "text": "ANARP", "path": "/"},
         { "text": "Fórum", "path": "/forum"},
-        { "text": "CINA", "path": "/cina"}
+        { "text": "CINA", "path": "/cina"},
+        { "text": "Institucional", "path": "/institucional"}
       ]
     },
     "webpages": [
@@ -16,7 +17,7 @@
         "slides": [
         {
             "type": "Hero",
-            "backgroundImg": "anarp-intro.jpeg",
+            "backgroundImg": "anarp-1.jpeg",
             "variant": "V1",
             "img": "",
             "title": "ANARP - Associação Nova Aurora na Reabilitação e Reintegração Psicossocial"
@@ -37,8 +38,9 @@
             "background": "#DFE8E8",
             "title": "Unidades ANARP",
             "cards": [
-                {"type": "Menu", "title": "Fórum Sócio-Ocupacional", "img": "forum-intro.jpeg", "url": "/forum"},
-                {"type": "Menu", "title": "Centro Infantil", "img": "cina-intro.jpeg", "url": "/cina"}
+                {"type": "Menu", "title": "Fórum Sócio-Ocupacional", "img": "forum-1.jpeg", "url": "/forum"},
+                {"type": "Menu", "title": "Centro Infantil", "img": "cina-1.jpeg", "url": "/cina"},
+                {"type": "Menu", "title": "Institucional", "img": "anarp-2.jpg", "url": "/institucional"}
             ]
         },
         {
@@ -50,7 +52,317 @@
                 "Através de doação de parte do IRS: NIF 503 631 507",
                 "Através do IBAN: PT50 0033 0000 45299382375 05"
             ]
-        },
+        }
+        ]
+    },
+    {
+        "path": "/forum",
+        "title": "Fórum",
+        "slides": [
+            {
+                "type": "Hero",
+                "backgroundImg": "forum-1.jpeg",
+                "variant": "V3",
+                "img": "",
+                "title": "Fórum Sócio-Ocupacional"
+            },
+            {
+                "type": "About",
+                "background": "#FFFFFF",
+                "title": "Quem Somos",
+                "textlines": [
+                    "O Fórum Sócio-Ocupacional tem como missão apoiar a pessoa com experiência de doença mental a ultrapassar as limitações causadas pela sua doença, de forma a atingir um elevado nível de funcionalidade e a sua efetiva inclusão social.",
+                    "Desta forma, todos os serviços são orientados pelos valores e princípios mais atuais da Reabilitação Psicossocial, de acordo com autores e entidades internacionais de referência: opção de escolha, envolvimento ativo do indivíduo e das pessoas significativas no processo de recovery, crença no potencial de recuperação e personalização do processo de acordo com as necessidades, interesses e objetivos da pessoa.",
+                    "O Fórum Sócio-Ocupacional procura, ainda, ter um papel ativo no aumento da literacia na saúde mental e no combate ao estigma.",
+                    "Horário de funcionamento: 2ª a 6ª feira, entre as 09h e as 17:30h"
+                ]
+            },
+            {
+                "type": "About",
+                "background": "#FFFFFF",
+                "title": "O QUE FAZEMOS",
+                "cards": [
+                    {
+                        "type": "Text",
+                        "title": "Acompanhamento Terapêutico",
+                        "textlines": [
+                            "O Fórum Sócio-Ocupacional Nova Aurora presta serviços personalizados e integrados que permitem responder às necessidades específicas de cada pessoa, mediante uma avaliação biopsicossocial.",
+                            "Os serviços são disponibilizados em formato individual e em grupo e baseiam-se na evidência clínica e científica mais recente.",
+                            "Estes serviços são disponibilizados por uma equipa de técnicos especializados e com vasta formação na área da reabilitação psicossocial, incluindo psicólogos, assistente social e terapeuta ocupacional.",
+                            "O acompanhamento individual é prestado por um técnico de referência, responsável pela gestão e organização do processo e articulação com todas as partes envolvidas (utente, familiares/cuidadores, outros profissionais de saúde, profissionais da área social, entre outros).",
+                            "Este acompanhamento terapêutico é sustentado num plano individual de reabilitação que promove o desenvolvimento de várias competências e a estreita articulação e coordenação de vários recursos comunitários.",
+                            "As atividades de grupo consistem num conjunto de programas que, de forma flexível, personalizada, progressiva e participada, permite o desenvolvimento de competências de base e/ou mais específicas, no sentido de potenciar as oportunidades de participação e inserção social dos utentes.",
+                            "São estimuladas capacidades neurocognitivas e de cognição social, de autoconhecimento e gestão da doença, de desenvolvimento de atividades de vida diária e de promoção do empowerment e autodeterminação. Procura-se, também, a promoção de estilos de vida saudáveis, através da disponibilização de atividades desportivas e artísticas."
+                        ]
+                    },
+                    {
+                        "type": "Text",
+                        "title": "Apoio Familiar",
+                        "textlines": [
+                            "Este serviço é disponibilizado a famílias, individualmente ou em grupo.",
+                            "O apoio individual pretende dotar a família de um conjunto de competências que lhe permitam responder a necessidades específicas da sua dinâmica familiar, facilitando o equilíbrio familiar e a resolução de problemas no seio da família.",
+                            "O grupo psicoeducativo multifamiliar, com periodicidade mensal, pretende ser um espaço de partilha de conhecimentos e experiências entre cuidadores informais de pessoas com experiência de doença mental, no sentido de aliviar a sobrecarga emocional e potenciar a aprendizagem.",
+                            "Para alcançar estes objetivos, procura-se desenvolver a relação entre as famílias e ajustar o funcionamento do grupo, em cada momento, às suas necessidades e possibilidades, no sentido de se criarem mecanismos de suporte mútuo, oportunidades para aumentar o conhecimento sobre a doença e tudo que com ela direta ou indiretamente está relacionado e de desenvolver competências de gestão, nomeadamente de comunicação, resolução de problemas, intervenção na crise, entre outras."
+                        ]
+                    },
+                    {
+                        "type": "Text",
+                        "title": "Qualificação e Emprego",
+                        "textlines": [
+                            "Este serviço pretende um acompanhamento sólido de cada indivíduo com experiência de doença mental durante toda a integração profissional.",
+                            "Trata-se de uma intervenção que pretende apoiar na escolha, procura e integração em emprego ou formação e potenciar as capacidades dos utentes, centradas na resolução de questões e/ou dificuldades resultantes do processo educativo e de (re)integração no mercado de trabalho.",
+                            "Pretende-se o desenvolvimento de competências e de uma rede de suporte suficientemente sólida, para que seja capaz de potenciar uma resposta integradora e sustentada.",
+                            "Este trabalho é desenvolvido individualmente, em acompanhamento de periodicidade variável, mediante as necessidades de definição de projeto e desenvolvimento de estratégias de intervenção e em grupo, através da dinamização de atividades de discussão do projeto, dificuldades e desafios do processo de integração.",
+                            "Para o sucesso deste trabalho é fundamental uma articulação constante com as diversas entidades envolvidas, assim como de outras respostas comunitárias, complementares a todo o processo."
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "About",
+                "background": "#EEEEEE",
+                "title": "Projectos",
+                "text": "A criação de projetos que visem a integração dos indivíduos acompanhados no Fórum Sócio-Ocupacional tem como objetivo a conquista de autonomia, a recuperação de dignidade social, a criação de laços sociais, o aumento do leque de experiências culturais vivenciadas, a criação de rotinas organizadas em torno de momentos positivos de socialização e aprendizagem e o aumento de qualificações escolares e/ou profissionais.",
+                "cards": [
+                    {
+                        "type": "Box",
+                        "title": "INR",
+                        "img": "inr.png",
+                        "text": ""
+                    },
+                    {
+                        "type": "Box",
+                        "title": "Creative Connections",
+                        "img": "",
+                        "text": "Conceção de um kit antiestigma para sensibilizar a comunidade, aumentar os conhecimentos sobre o tema e mudar comportamentos e atitudes"
+                    },
+                    {
+                        "type": "Box",
+                        "title": "INforma – Saúde Mental em Realidade Virtual",
+                        "img": "Desenvolvimento de um ambiente com recurso à realidade virtual que retrata a vivência de uma pessoa com doença mental, promovendo a empatia e a literacia",
+                        "text": ""
+                    },
+                    {
+                        "type": "Box",
+                        "title": "Colónia Nova Aurora",
+                        "img": "",
+                        "text": "Realização de uma colónia de férias em Castanheira da Pêra e de um conjunto de atividades de carácter lúdico na área metropolitana do Porto"
+                    },
+                    {
+                        "type": "Box",
+                        "title": "Promoção das Capacidades de Liderança e do Empoderamento",
+                        "img": "",
+                        "text": "A Fundação Calouste Gulbenkian, em consórcio com a Fundação Bissaya Barreto, foi selecionada para gerir em Portugal o Active Citizens Fund, componente dos EEA Grants especificamente destinada a apoiar as Organizações Não Governamentais (ONG). O objetivo central do Programa Cidadão Ativ@s é fortalecer a Sociedade Civil, reforçar a cidadania ativa e empoderar os grupos vulneráveis. O projeto “Promoção das Capacidades e do Empoderamento” na qual a ANARP é parceira foi um dos beneficiários e visa a promoção das capacidades de liderança e o empoderamento das pessoas com experiência de doença mental.",
+                        "link": "https://gulbenkian.pt/cidadaos-ativos/projects/promocao-das-capacidades-de-lideranca-e-do-empoderamento/"
+                    },
+                    {
+                        "type": "Box",
+                        "title": "Full Life Project: Erasmus + (2019-1-IT02-KA204-062207)",
+                        "img": "",
+                        "text": "A ANARP é um dos parceiros de mais um projeto internacional financiado pela União Europeia. O projeto Full Life tem como principal objetivo a partilha de estratégias, metodologias e ferramentas para a inclusão de pessoas com incapacidade no âmbito da empregabilidade e habitação apoiada.",
+                        "textlines": [
+                            "Parceiros: ",
+                            "ARCA Cooperativa Sociale - Itália",
+                            "RES - Réseau d'Entreprises Sociales - Bélgica",
+                            "Galileo Progetti Nonprofit KFT - Hungria",
+                            "SOCENT Company Limited by Guarantee  - Irlanda",
+                            "ANARP - Associação Nova Aurora na Reabilitação e Reintegração Psicossocial - Portugal",
+                            "CARITAS SABAC UDRUZENJE - Sérvia",
+                            "IDEIS - Institut de l'entreprise et de l'innovation sociale - França",
+                            "Budget: um orçamento total destinado à Anarp de 18.278,00€",
+                            "Duração do projeto:  29 meses (01/10/2019 a 28/02/2022)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "About",
+                "background": "#DFE8E8",
+                "title": "Eventos/Notícias",
+                "text": "A criação de projetos que visem a integração dos indivíduos acompanhados no Fórum Sócio-Ocupacional tem como objetivo a conquista de autonomia, a recuperação de dignidade social, a criação de laços sociais, o aumento do leque de experiências culturais vivenciadas, a criação de rotinas organizadas em torno de momentos positivos de socialização e aprendizagem e o aumento de qualificações escolares e/ou profissionais.",
+                "cards": [
+                    {
+                        "type": "Box",
+                        "title": "INR",
+                        "img": "inr.png",
+                        "text": ""
+                    }
+                ]
+            },
+            {
+                "type": "About",
+                "background": "#FFFFFF",
+                "title": "Admissões",
+                "textlines": [
+                    "O Fórum Sócio-Ocupacional presta apoio a pessoas adultas com diagnóstico de doença mental, clinicamente estabilizadas, sem consumos de álcool ou drogas nos últimos 3 anos e sem défices cognitivos graves.",
+                    "Para efetuar a inscrição nos nossos serviços pode contactar-nos por telefone ou preencher o formulário. Será contactado assim que surgir uma vaga."
+                ],
+                "cards": [
+                    {
+                        "type": "Documents",
+                        "link": {"text": "Formulário de Contacto", "url": "Forum/Formulario.pdf"}
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/cina",
+        "title": "CINA",
+        "slides": [
+            {
+                "type": "Hero",
+                "backgroundImg": "cina-1.jpeg",
+                "variant": "V2",
+                "img": "",
+                "title": "Centro Infantil Nova Aurora"
+            },
+            {
+                "type": "About",
+                "background": "#FFFFFF",
+                "title": "Sobre nós",
+                "textlines": [
+                    "O Centro Infantil Nova Aurora (CINA) é um dos equipamentos da IPSS ANARP, que pensa no processo educativo e no processo de ensino-aprendizagem como um todo sistémico e cujo projeto educativo se alicerça na continuidade e intencionalidade educativa que a equipa assume nas respostas sociais de Creche e CATL e na resposta educativa de Pré-Escolar.",
+                    "Privilegiamos uma ação dinâmica e reflexiva centrada na criança uma vez que ela é o motor para o seu desenvolvimento cognitivo, social, cultural, físico e emocional."
+                ]
+            },
+            {
+                "type": "Feature",
+                "background": "#EEEEEE",
+                "title": "Missão",
+                "textlines": [
+                    "O Centro Infantil Nova Aurora tem como missão assegurar, com qualidade pedagógica, a satisfação das necessidades básicas da criança assim como criar um ambiente particularmente rico em oportunidades de aprendizagem.",
+                    "Promovemos uma educação focada no potencial que há em cada indivíduo como sujeito ativo que influencia e é influenciado pela sua ação e pelo meio envolvente, de modo a torná-lo um ser mais informado, consciente, sensível e capaz.",
+                    "Para criar as condições mais favoráveis para promover o desenvolvimento integral e integrado de cada criança, reconhecendo-lhe a sua identidade e também o grupo em que este está inserido como unidade de socialização e aprendizagem, fundamentamos a nossa ação em três pilares fundadores:"
+                ],
+                "cards": [
+                    {
+                        "type": "Topic",
+                        "title": "Segurança",
+                        "text": "Pressupões a criação de um ambiente securizante ao nível físico, emocional, afetivo, cognitivo e social"
+                    },
+                    {
+                        "type": "Topic",
+                        "title": "Afetividade",
+                        "text": "Princípio de que cada criança é única e que a sua integração no grupo resulta, antes de mais, da compreensão das suas necessidades, dificuldades e competências individuais e de uma atitude por parte do adulto de disponibilidade para a escutar, compreender e acarinhar"
+                    },
+                    {
+                        "type": "Topic",
+                        "title": "Responsabilidade",
+                        "img": "",
+                        "text": "Considera a necessidade do reconhecimento por parte da criança de um conjunto de regras e rotinas que precisam de ser respeitadas para que o seu crescimento e integração pessoal e social se processem de forma harmoniosa, de modo a tornar-se uma pessoa responsável, confiante e equilibrada"
+                    }
+                ]
+            },
+            {
+                "type": "Feature",
+                "background": "#FFFFFF",
+                "title": "Objetivos",
+                "textlines": [
+                    "Os espaços interiores foram pensados para se adaptarem às crianças e às atividades e aprendizagens que neles serão desenvolvidas.",
+                    "Estamos convencidos que a organização do espaço e do tempo desempenham um papel crucial no sucesso educativo que pretendemos alcançar.",
+                    "Para que uma criança brinque em segurança, aprenda com alegria, cresça com tranquilidade, o espaço onde ela se movimenta deve ser livre de obstáculos, confortável, iluminado, arejado, termicamente controlado, agradável, pedagogicamente estimulante para que nele se possa viver plenamente e sonhar!",
+                    "Valorizamos a capacidade lúdica da infância como motor para o desenvolvimento."
+                ]
+            },
+            {
+                "type": "Feature",
+                "background": "#EEEEEE",
+                "title": "Resposta Social de C.A.T.L.",
+                "textlines": [
+                    "No CATL damos continuidade ao trabalho iniciado nas outras respostas sociais, de modo a que cada criança possa explorar todo o seu potencial, construindo o seu percurso e o seu desenvolvimento através da consolidação de competências de saber- fazer, saber-estar e do saber-ser que lhe proporcione um percurso pessoal e escolar gratificante através da dinamização de atividades lúdico-pedagógicas.",
+                    "Construímos “ferramentas” de aprendizagem que permitam o respeito e o reconhecimento de cada criança enquanto pessoa ativa e participativa na sociedade, de forma a adquirir um sentido significativo que vá muito além da teoria.",
+                    "Não descuidamos que valores como o rigor, o método, o trabalho, a disciplina, a exigência, a empatia, a responsabilidade constantemente incutidos pelos agentes educativos, sejam assimilados pela criança de uma forma consciente."
+                ]
+            },
+            {
+                "type": "Feature",
+                "background": "#FFFFFF",
+                "title": "Resposta Social de Creche",
+                "textlines": [
+                    "Na creche pretendemos desenvolver alguns objetivos, tais como:",
+                    " Garantir a satisfação das necessidades básicas das crianças, nomeadamente, alimentação (diferenciada de acordo com as necessidades e a respetiva idade de cada uma), higiene, saúde, segurança, lazer, momentos de repouso e aprendizagens diferenciadas",
+                    " Estimular o desenvolvimento integral de cada criança, através de diferentes contextos educativos que lhe são proporcionados na rotina diária",
+                    " Promover a sua inserção no grupo, estimulando as relações afetivas com os pares, com os adultos e reforçando a interação com a família, investindo na cooperação entre agentes enriquecendo o processo ensino-aprendizagem",
+                    "Asseguramos ainda, nos momentos de acolhimento no início e no final do dia, atividades diferenciadas das restantes por nós desenvolvidas, integradas na Componente de Animação de Apoio à Família"
+                ]
+            },
+            {
+                "type": "Feature",
+                "background": "#EEEEEE",
+                "title": "Resposta Educativa de Pré-Escolar",
+                "textlines": [
+                    "No Pré- Escolar damos continuidade aos objetivos que foram abordados na creche, dando-lhes uma maior amplitude e articulando as nossas intenções pedagógicas com os objetivos mencionados nas Orientações Curriculares para a Educação Pré-Escolar.",
+                    "Pretendemos que as crianças se sintam seguras, amadas e felizes, investindo na criação de um ambiente propício à descoberta, à exploração e ao desenvolvimento pessoal e social.",
+                    "Propomo-nos durante esses três anos (dos 3 aos 6 anos) proporcionar atividades que assumam oportunidades de aprendizagem em que as crianças estejam em interação com variadas ofertas lúdicas e educativas.",
+                    "O espaço educativo é organizado em diferentes áreas de interesse como Área do Jogo Simbólico (casinha), Área da Biblioteca (leitura), Área da Expressão Plástica, Área dos Jogos e das Construções, Área das Ciências e Área das Tecnologias que podem e devem ser alteradas ao longo do ano criando novas motivações no grupo.",
+                    "De acordo com as orientações do Ministério de Educação e Ciência na Resposta Educativa de Pré-Escolar há o cumprimento de 5 horas diárias de componente letiva (das 9h às 12h e das 14h às 16h) na qual a educadora trabalha diretamente com o grupo promovendo e desenvolvendo uma planificação intencional, contínua e articulada.",
+                    "Assim, e de modo a assegurar o cumprimento das 5 horas de componente letiva nesta resposta social, optamos por não incluir o momento do sono."
+                ]
+            },
+            {
+                "type": "Feature",
+                "background": "#FFFFFF",
+                "title": "Atividades Extra Curriculares",
+                "textlines": [
+                    "O CINA possui um conjunto de atividades extra curriculares através de uma parceria com a empresa Qieduka que apoiam e ajudam a desenvolver nas crianças outras competências e conhecimentos que devidamente integrados nos permitem apoiar a criança no seu desenvolvimento numa abordagem holística.",
+                    "Trata-se de atividades opcionais, cujo custo será suportado pelas famílias e são elas: Inglês, Música, Karaté, Yoga, Físico Desportiva, Ballet, Xadrez e Dança (cf. tabela de preços)."
+                ]
+            },
+            {
+                "type": "Feature",
+                "background": "#DFE8E8",
+                "title": "Transporte",
+                "textlines": [
+                    "A ANARP possui duas carrinhas especializadas em transporte de crianças.",
+                    "Na resposta social de CATL o Centro Infantil Nova Aurora dispõe de serviço de transporte para a Escola Básica de 1o Ciclo de Miosótis e para a Escola Básica de 2o e 3o Ciclo de Pêro Vaz de Caminha, tendo este serviço um custo anual que será dividido por 10 prestações mensais (correspondentes aos 10 meses de período letivo – cf. tabela de preços)."
+                ]
+            },
+            {
+                "type": "Feature",
+                "background": "#EEEEEE",
+                "title": "Documentos",
+                "cards": [
+                {
+                    "type": "Documents",
+                    "title": "Documentos",
+                    "items": [
+                        {"text": "Ementas Outubro", "url": "CINA/Ementas.pdf"},
+                        {"text": "Equipa e Horário", "url": "CINA/Ementas.pdf"},
+                        {"text": "Informações de Funcionamento", "url": "CINA/Funcionamento.pdf"},
+                        {"text": "Atividades Extra Curriculares", "url": "CINA/Horario_atv.pdf"},
+                        {"text": "Ficha de Pré-Inscrição", "url": "CINA/Ficha_pre_inscrição.pdf"}
+                    ]
+                },
+                {
+                    "type": "Documents",
+                    "title": "Planos",
+                    "items": [
+                        {"text": "Plano Anual Letivo 2020/2021", "url": "CINA/Plano_letivo.pdf"},
+                        {"text": "Plano Anual Atividades", "url": "CINA/Plano_anual_atividades.pdf"},
+                        {"text": "Plano Creche", "url": "CINA/Plano_creche.pdf"},
+                        {"text": "Plano CATL", "url": "CINA/Plano_catl.pdf"}
+                    ]
+                },
+                {
+                    "type": "Documents",
+                    "title": "Acordos e Regulamentos",
+                    "items": [
+                        {"text": "Acordos", "url": "CINA/Acordos_cina.pdf"},
+                        {"text": "Regulamento Creche", "url": "Regulamento_Creche.pdf"},
+                        {"text": "Regulamento Pré-Escolar", "url": "Regulamento_Pré_Escolar.pdf"},
+                        {"text": "Regulamento CATL", "url": "Regulamento_CATL.pd"}
+                    ]
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "path": "/institucional",
+        "title": "ANARP",
+        "background": "#FFFFFF",
+        "slides": [
         {
             "type": "Feature",
             "background": "#EEEEEE",
@@ -58,14 +370,22 @@
             "cards": [
             {
                 "type": "Documents",
-                "title": "Insititucionais",
+                "title": "Insitituição",
                 "items": [
                     {"text": "Orgãos Sociais", "url": "ANARP_Orgão_Sociais.pdf"},
-                    {"text": "Estatutos da ANARP", "url": "ANARP_Estatutos.pdf"},
+                    {"text": "Estatutos", "url": "ANARP_Estatutos.pdf"},
                     {"text": "Ata Eleitoral", "url": "ANARP_Ata_Eleitoral.pdf"},
                     {"text": "Ata Tomada de Posse", "url": "ANARP_Ata_Posse.pdf"},
                     {"text": "Registo no Diário da Républica", "url": "ANARP_Registo_DR.pdf"}
                     
+                ]
+            },
+            {
+                "type": "Documents",
+                "title": "Plano 2020",
+                "items": [
+                    {"text": "Plano de Ação e Orçamento", "url": "2020_Plano.pdf"},
+                    {"text": "Ata AG Plano de Ação e Orçamento", "url": "2020_Ata_Plano.pdf"}
                 ]
             },
             {
@@ -84,29 +404,14 @@
                     {"text": "Regulamento Pré-Escolar", "url": "Regulamento_Pré_Escolar.pdf"},
                     {"text": "Regulamento CATL", "url": "Regulamento_CATL.pd"}
                 ]
-            },
-            {
-                "type": "Documents",
-                "title": "Legislação",
-                "items": [
-                    {"text": "DL", "url": "DL_1.pdf"},
-                    {"text": "DL", "url": "DL_2.pdf"},
-                    {"text": "DL", "url": "DL_3.pdf"},
-                    {"text": "DL", "url": "DL_4.pdf"},
-                    {"text": "DL", "url": "DL_5.pdf"},
-                    {"text": "DL", "url": "DL_6.pdf"},
-                    {"text": "DL", "url": "DL_7.pdf"},
-                    {"text": "DL", "url": ""}
-                ]
-            },
-            {
-                "type": "Documents",
-                "title": "Plano 2020",
-                "items": [
-                    {"text": "Plano de Ação e Orçamento", "url": "2020_Plano.pdf"},
-                    {"text": "Ata AG Plano de Ação e Orçamento", "url": "2020_Ata_Plano.pdf"}
-                ]
-            },
+            }
+            ]
+        },
+        {
+            "type": "Feature",
+            "background": "#DFE8E8",
+            "title": "Contas",
+            "cards": [
             {
                 "type": "Documents",
                 "title": "Plano e Contas 2019",
@@ -168,109 +473,28 @@
                 ]
             }
             ]
+        },
+        {
+            "type": "Feature",
+            "background": "#EEEEEE",
+            "title": "Legislação",
+            "cards": [
+                {
+                    "type": "Documents",
+                    "title": "Legislação",
+                    "items": [
+                        {"text": "Lei de Saúde Mental 36/98", "url": "DL_2.pdf"},
+                        {"text": "REDE DE CUIDADOS CONTINUADOS DE SAÚDE", "url": "DL_4.pdf"},
+                        {"text": "Portaria 348-A/98", "url": "DL_1.pdf"},
+                        {"text": "Decreto-Lei 35/99", "url": "DL_3.pdf"},
+                        {"text": "Decreto-Lei 290/2009", "url": "DL_5.pdf"},
+                        {"text": "Portaria n.o 149/2011", "url": "DL_6.pdf"},
+                        {"text": "Decreto-Lei n.o 8/2010", "url": "DL_7.pdf"}
+                    ]
+                }
+            ]
         }
         ]
-    },
-    {
-        "path": "/forum",
-        "title": "Fórum",
-        "slides": [
-            {
-                "type": "Hero",
-                "backgroundImg": "forum-intro.jpeg",
-                "variant": "V2",
-                "img": "",
-                "title": "Fórum Sócio-Ocupacional"
-            },
-            {
-                "type": "About",
-                "background": "#FFFFFF",
-                "title": "Quem Somos",
-                "textlines": [
-                    "O Fórum Sócio-Ocupacional tem como missão apoiar a pessoa com experiência de doença mental a ultrapassar as limitações causadas pela sua doença, de forma a atingir um elevado nível de funcionalidade e a sua efetiva inclusão social.",
-                    "Desta forma, todos os serviços são orientados pelos valores e princípios mais atuais da Reabilitação Psicossocial, de acordo com autores e entidades internacionais de referência: opção de escolha, envolvimento ativo do indivíduo e das pessoas significativas no processo de recovery, crença no potencial de recuperação e personalização do processo de acordo com as necessidades, interesses e objetivos da pessoa.",
-                    "O Fórum Sócio-Ocupacional procura, ainda, ter um papel ativo no aumento da literacia na saúde mental e no combate ao estigma.",
-                    "Horário de funcionamento: 2ª a 6ª feira, entre as 09h e as 17:30h"
-                ]
-            },
-            {
-                "type": "About",
-                "background": "#FFFFFF",
-                "title": "O QUE FAZEMOS",
-                "cards": [
-                    {
-                        "type": "Text",
-                        "title": "Acompanhamento Terapêutico",
-                        "textlines": [
-                            "O Fórum Sócio-Ocupacional Nova Aurora presta serviços personalizados e integrados que permitem responder às necessidades específicas de cada pessoa, mediante uma avaliação biopsicossocial.",
-                            "Os serviços são disponibilizados em formato individual e em grupo e baseiam-se na evidência clínica e científica mais recente.",
-                            "Estes serviços são disponibilizados por uma equipa de técnicos especializados e com vasta formação na área da reabilitação psicossocial, incluindo psicólogos, assistente social e terapeuta ocupacional.",
-                            "O acompanhamento individual é prestado por um técnico de referência, responsável pela gestão e organização do processo e articulação com todas as partes envolvidas (utente, familiares/cuidadores, outros profissionais de saúde, profissionais da área social, entre outros).",
-                            "Este acompanhamento terapêutico é sustentado num plano individual de reabilitação que promove o desenvolvimento de várias competências e a estreita articulação e coordenação de vários recursos comunitários.",
-                            "As atividades de grupo consistem num conjunto de programas que, de forma flexível, personalizada, progressiva e participada, permite o desenvolvimento de competências de base e/ou mais específicas, no sentido de potenciar as oportunidades de participação e inserção social dos utentes.",
-                            "São estimuladas capacidades neurocognitivas e de cognição social, de autoconhecimento e gestão da doença, de desenvolvimento de atividades de vida diária e de promoção do empowerment e autodeterminação. Procura-se, também, a promoção de estilos de vida saudáveis, através da disponibilização de atividades desportivas e artísticas."
-                        ]
-                    },
-                    {
-                        "type": "Text",
-                        "title": "Apoio Familiar",
-                        "textlines": [
-                            "Este serviço é disponibilizado a famílias, individualmente ou em grupo.",
-                            "O apoio individual pretende dotar a família de um conjunto de competências que lhe permitam responder a necessidades específicas da sua dinâmica familiar, facilitando o equilíbrio familiar e a resolução de problemas no seio da família.",
-                            "O grupo psicoeducativo multifamiliar, com periodicidade mensal, pretende ser um espaço de partilha de conhecimentos e experiências entre cuidadores informais de pessoas com experiência de doença mental, no sentido de aliviar a sobrecarga emocional e potenciar a aprendizagem.",
-                            "Para alcançar estes objetivos, procura-se desenvolver a relação entre as famílias e ajustar o funcionamento do grupo, em cada momento, às suas necessidades e possibilidades, no sentido de se criarem mecanismos de suporte mútuo, oportunidades para aumentar o conhecimento sobre a doença e tudo que com ela direta ou indiretamente está relacionado e de desenvolver competências de gestão, nomeadamente de comunicação, resolução de problemas, intervenção na crise, entre outras."
-                        ]
-                    },
-                    {
-                        "type": "Text",
-                        "title": "Qualificação e Emprego",
-                        "textlines": [
-                            "Este serviço pretende um acompanhamento sólido de cada indivíduo com experiência de doença mental durante toda a integração profissional.",
-                            "Trata-se de uma intervenção que pretende apoiar na escolha, procura e integração em emprego ou formação e potenciar as capacidades dos utentes, centradas na resolução de questões e/ou dificuldades resultantes do processo educativo e de (re)integração no mercado de trabalho.",
-                            "Pretende-se o desenvolvimento de competências e de uma rede de suporte suficientemente sólida, para que seja capaz de potenciar uma resposta integradora e sustentada.",
-                            "Este trabalho é desenvolvido individualmente, em acompanhamento de periodicidade variável, mediante as necessidades de definição de projeto e desenvolvimento de estratégias de intervenção e em grupo, através da dinamização de atividades de discussão do projeto, dificuldades e desafios do processo de integração.",
-                            "Para o sucesso deste trabalho é fundamental uma articulação constante com as diversas entidades envolvidas, assim como de outras respostas comunitárias, complementares a todo o processo."
-                        ]
-                    }
-                ]
-            },
-            {
-                "type": "About",
-                "background": "#FFFFFF",
-                "title": "Projectos",
-                "text": "A criação de projetos que visem a integração dos indivíduos acompanhados no Fórum Sócio-Ocupacional tem como objetivo a conquista de autonomia, a recuperação de dignidade social, a criação de laços sociais, o aumento do leque de experiências culturais vivenciadas, a criação de rotinas organizadas em torno de momentos positivos de socialização e aprendizagem e o aumento de qualificações escolares e/ou profissionais.",
-                "cards": [
-                    {
-                        "type": "Box",
-                        "title": "INR",
-                        "img": "",
-                        "text": ""
-                    },
-                    {
-                        "type": "Box",
-                        "title": "Creative Connections",
-                        "img": "",
-                        "text": ""
-                    },
-                    {
-                        "type": "Box",
-                        "title": "INforma – Saúde Mental em Realidade Virtual",
-                        "img": "",
-                        "text": ""
-                    },
-                    {
-                        "type": "Box",
-                        "title": "Colónia Nova Aurora",
-                        "img": "",
-                        "text": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "path": "/cina",
-        "title": "CINA"
     }
     ],
     "footer": {
